@@ -1,0 +1,62 @@
+site_name: NopAccelerate Docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.instant
+    - navigation.indexes
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - navigation.tracking
+    - navigation.path
+    - navigation.breadcrumbs
+    - header.autohide
+plugins:
+  - search
+  - awesome-pages
+extra:
+  footer: © 2025 NopAccelerate • Built with ❤️ by NopAccelerate Team
+nav:
+  - Home: index.md
+  - Display Reward Plugin:
+      - Overview: displayReward/index.md
+      - Version History: 
+          - Overview: displayReward/History.md
+          - Version 1.0.0: displayReward/Version1.0.0.md
+          - Version 1.0.1: displayReward/1.0.1.md
+          - Version 1.1.0: displayReward/1.1.0.md
+          - Version 1.2.0: displayReward/1.2.0.md
+          - Version 1.3.0: displayReward/1.3.0.md
+          - Version 49.0.0: displayReward/49.0.0.md
+      - Features: displayReward/Feature.md
+      - Installation:
+          - Licensing: displayReward/Licence.md
+          - Configuration: displayReward/Configuration.md
+          - Scenerios of Use: displayReward/senerioOfUse.md
+          - Help: displayReward/Help.md
+
+  - Bundle Discount Plugin:
+      - Overview: bundleDiscount/index.md
+      - Version History: 
+          - Overview: bundleDiscount/version-history.md
+          - Version 1.0.0: bundleDiscount/1.0.0.md
+          - Version 1.0.1: bundleDiscount/1.0.1.md
+      - Features: bundleDiscount/features.md
+      - Installation:
+          - Licensing: bundleDiscount/getting-started.md

@@ -1,0 +1,22 @@
+# Display reward points Plugin for nopCommerce
+
+---
+
+## 1.0.0
+
+| **Release Date** | March 19, 2017 |
+|-------------------|----------------|
+| **Plug-In Version** | 1.0.0 |
+| **Supported nopCommerce Version** | 3.80 |
+
+---
+
+### **Features**
+
+1. Display reward point on product detail page.  
+2. Customizable CSS selector for the display reward point.  
+3. Customizable content and design of display reward point.  
+4. Multi-store Supported.  
+
+---
+[← Previous](History.md) | [Next →](1.0.1.md)
