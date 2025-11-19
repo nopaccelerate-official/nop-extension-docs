@@ -1,4 +1,4 @@
-# SOLR Setup
+# **SOLR Setup**
 
 To set up **SOLR** on your machine, follow the steps below:
 
@@ -37,4 +37,6 @@ So your Solr path becomes:
 ---
 
 Hence, Solr is downloaded and Java is set up.  
-Now let's [start Solr](#).
+Now let's [start Solr](StartSolr.md).
+
+[← Previous](SOLRSetup.md) | [Next →](SOLR.md)

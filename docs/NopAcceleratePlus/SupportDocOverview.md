@@ -1,4 +1,4 @@
-# Support Document
+#  **Support Document**
 
 **The following segments will assist you regarding the configuration about Java, Solr and Quick Start Wizard**
 
@@ -8,17 +8,20 @@
 
 [JAVA Setup](JAVASetup.md)
 
-**SOLR Setup** –
-[What is SOLR ?](#) –
+**[SOLR Setup](SOLRSetup.md)**
 
-[How to Start/Stop/Restart SOLR ?](#) –
+-[What is SOLR ?](SOLR.md)
 
-[Creating a new core](#) –
+-[How to Start/Stop/Restart SOLR ?](StartSolr.md)
 
-[How to Delete core](#) –
+-[Creating a new core](CreateCore.md)
 
-[How to Reload core](#) –
+-[How to Delete core](DeleteCore.md)
 
-[How to Delete indexed data](#) –
+-[How to Reload core](ReloadCore.md)
 
-[Start SOLR on system startup](#)
+-[How to Delete indexed data](DeleteIndexData.md)
+
+-[Start SOLR on system startup](StartSolronSystemStartup.md)
+
+[← Previous](#) | [Next →](nopAcceleratePlusProInstallation.md)

@@ -1,4 +1,4 @@
-# JAVA Setup
+# **JAVA Setup**
 
 To set up **SOLR** and **nopAccelerate Plus** on your machine, the first step is to install and configure **Java**.  
 Follow the steps below:
@@ -70,3 +70,5 @@ You will now see the newly added `JAVA_HOME` variable in the environment variabl
 ![Test5](../img/JAVAHOMEinList.png)
 
 You have successfully configured the Java environment variable.
+
+[← Previous](JAVASetup.md) | [Next →](SOLRSetup.md)

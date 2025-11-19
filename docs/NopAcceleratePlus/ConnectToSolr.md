@@ -1,12 +1,12 @@
 # How can I connect to Solr?
 
-## Question
+## **Question**
 
 How can I connect to Solr? It shows a connection issue.
 
 ---
 
-## Solution
+## **Solution**
 
 First, verify that your **Solr Core URL** is correct.
 
@@ -17,7 +17,7 @@ http://localhost:8983/solr/Solr_sample
 
 ---
 
-## Make Sure:
+## **Make Sure:**
 
 - Your Solr Core URL **does not end with a `/`**  
   *Correct:* `http://localhost:8983/solr/Solr_sample`  

@@ -70,6 +70,13 @@ nav:
         - JAVA Setup: NopAcceleratePlus/JAVASetup.md
         - SOLR Setup:
           - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
+          - What is SOLR ?: NopAcceleratePlus/SOLR.md
+          - How to Start/Stop/Restart SOLR ?: NopAcceleratePlus/StartSolr.md
+          - Creating a new Core: NopAcceleratePlus/CreateCore.md
+          - How to Delete Core: NopAcceleratePlus/DeleteCore.md
+          - How to Reload Core: NopAcceleratePlus/ReloadCore.md
+          - How to Delete Indexed data: NopAcceleratePlus/DeleteIndexData.md
+          - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
       - Version History: 
         - Overview: NopAcceleratePlus/version-history.md        
         # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
@@ -93,6 +100,12 @@ nav:
         - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
         - Connect To Solr : NopAcceleratePlus/ConnectToSolr.md
         - TimeOut Expiration : NopAcceleratePlus/TimeOutExpiration.md
-        - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md.md
-        # - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
-        # - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
+        - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md
+        - Search with Synonyms : NopAcceleratePlus/SearchWithSynonyms.md
+        - Facet Filter with % : NopAcceleratePlus/FacetFilterWith%.md
+        - Solr as Service : NopAcceleratePlus/SolrService.md
+        - Licensing Issues : NopAcceleratePlus/LicensingIssues.md
+        - Responsive filter : NopAcceleratePlus/ResponsiveFilter.md
+        - Font Error : NopAcceleratePlus/FontError.md
+        - WebRequest: NopAcceleratePlus/WebRequest.md
+      - Help : NopAcceleratePlus/Help.md

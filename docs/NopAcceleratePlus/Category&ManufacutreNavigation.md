@@ -1,12 +1,12 @@
 # Category and Manufacturer Navigation not working
 
-## Question
+## **Question**
 
 Category and Manufacturer Navigation are not working on our store.
 
 ---
 
-## Cause of the Problem
+## **Cause of the Problem**
 
 The `currentCategoryId` parameter used to invoke the **CategoryNavigation ViewComponent** is always `0` when using **nopAccelerate Plus**.
 
@@ -17,7 +17,7 @@ As a result, the navigation components do not receive the correct category conte
 
 ---
 
-## Solution
+## **Solution**
 
 You need to update the controller reference in your NopCommerce theme file.
 

@@ -1,6 +1,6 @@
 # TimeOut Expiration Error on Plugin installation
 
-## Question
+## **Question**
 
 I am getting the following error while installing the plugin:
 
@@ -9,7 +9,7 @@ or the server is not responding
 
 ---
 
-## Cause of the Problem
+## **Cause of the Problem**
 
 This issue occurs when there is a **large amount of data**, and during plugin installation the system attempts to create the **Incremental_Table**.
 
@@ -21,7 +21,7 @@ takes too long to execute and results in a timeout.
 
 ---
 
-## Solution
+## **Solution**
 
 Follow the steps below:
 

@@ -1,4 +1,4 @@
-# nopAccelerate Plus Pro Installation
+# **nopAccelerate Plus Pro Installation**
 
 Follow the steps below to install and configure **nopAccelerate Plus Pro** easily:
 
@@ -34,7 +34,9 @@ If you click **“Yes”**, you will be redirected to the **Quick Wizard Setup**
 If you click **“No thanks, I will set up manually”**, you will be redirected to the nopAccelerate configuration page, where you must set up **Solr** and **Java** manually.
 
 You can get guidance at:
-- **Java Setup**
-- **Solr Setup**
+**[Java Setup](JAVASetup.md)** and
+**[Solr Setup](SOLRSetup.md)**
 
 in this document to configure it manually.
+
+[← Previous](nopAcceleratePlusProInstallation.md) | [Next →](JAVASetup.md)
