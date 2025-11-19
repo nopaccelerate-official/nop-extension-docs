@@ -14,4 +14,4 @@ Once installed:
 
 ![Licence](../img/disaplaylincence.png)
 
-[← Previous](Feature.md) | [Next →](Configuration.md)
+[← Previous](1.3.0.md) | [Next →](Configuration.md)

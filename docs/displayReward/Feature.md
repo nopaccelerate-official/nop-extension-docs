@@ -7,4 +7,4 @@
 
 **Supported Version(s):** 3.80, 3.90, 4.00, 4.10, 4.20, 4.30, 4.40, 4.50, 4.60 , 4.70, 4.80 and 4.90
 
-[← Previous](49.0.0.md) | [Next →](Licence.md)
+[← Previous](index.md) | [Next →](History.md)
