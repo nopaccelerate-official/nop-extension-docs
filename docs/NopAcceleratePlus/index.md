@@ -1,6 +1,6 @@
 # nopAccelerate Plus Pro
 
-![Test](../img/plusprologo.png)
+![Test](../assets/img/plusprologo.png)
 
 nopAccelerate Plus Pro helps businesses across the nopCommerce ecosystem create highly relevant, scalable, and lightning-fast in-site search and product discovery experiences.
 
@@ -94,3 +94,4 @@ nopAccelerate Plus Pro brings powerful search technology that strengthens your e
 8. View More / View Less functionality for long facet lists.
 9. Default expanded or collapsed facet settings on page load.
 
+[Next →](SupportDocOverview.md)

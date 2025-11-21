@@ -73,3 +73,5 @@ You will see a **Warning Notification** on top of:
 
 These warnings explain the exact license issue so you can take action.
 
+
+[← Previous](SolrService.md) | [Next →](ResponsiveFilter.md)

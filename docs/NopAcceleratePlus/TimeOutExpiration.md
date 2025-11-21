@@ -39,3 +39,4 @@ EXEC NopAcc_Plus_ManageIncrementalSolrProductTable
 4. After the stored procedure completes successfully,  
 **install the plugin again**.
 
+[← Previous](CreateCore.md) | [Next →](Category&ManufacutreNavigation.md)

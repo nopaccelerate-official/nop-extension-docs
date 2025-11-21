@@ -12,3 +12,6 @@ To fix this issue, disable **Google Chrome Grammar**.
 For more details, refer to the article below:
 
 <https://stackoverflow.com/questions/45366744/refused-to-load-the-font-datafont-woff-it-violates-the-following-content>
+
+
+[← Previous](ResponsiveFilter.md) | [Next →](WebRequest.md)

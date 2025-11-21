@@ -25,3 +25,4 @@ http://localhost:8983/solr/Solr_sample
 
 - Remove **`#`** from the Solr Core URL if it exists.
 
+[← Previous](SetupCoreOnSharedServer.md) | [Next →](TimeOutExpiration.md)

@@ -2,6 +2,6 @@ You can reload core simply by selecting core and reload from Solr admin, please 
 
 This can be useful when any changes have been made to your solrconfig.xml or schema.xml files.
 
-![Test1](../img/Reload_Core.png)
+![Test1](../assets/img/Reload_Core.png)
 
-[← Previous](ReloadCore.md) | [Next →](DeleteIndexData.md)
+[← Previous](DeleteCore.md) | [Next →](DeleteIndexData.md)

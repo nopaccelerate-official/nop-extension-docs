@@ -17,7 +17,7 @@ You can also send us the exact steps to reproduce the issue by recording it usin
 5. Email the saved **.zip** file to us along with a short description of the issue.
 
 
-![help](../img/help.png)
+![help](../assets/img/help.png)
 
 
 [← Previous](senerioOfUse.md) 

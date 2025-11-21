@@ -3,17 +3,14 @@
 ## **Questions**
 How do you implement a WebRequest for the **StartIndexing** method?
 
-## **Solution**
-`StartIndexing` is an **async** method, so when you trigger it, indexing runs in the background and does **not** affect your website traffic.
+**Solution:**
 
----
-
-## **Implementing `StartIndexing` (GET method) in a third-party tool**
+StartIndexing is an async method so if you request it, it will work in background & will not impact your website traffic.
 
 **Implementing StartIndexing GET method in a third-party tool:**
 
 ```csharp
-string webAddr = "<DomainName>/Admin/NopAcceleratePlusSearch/StartIndexing";
+string webAddr = <DomainName>/Admin/NopAcceleratePlusSearch/StartIndexing;
 
 var httpWebRequest = (HttpWebRequest)WebRequest.Create(webAddr);
 httpWebRequest.ContentType = "application/json";
@@ -28,8 +25,13 @@ if (httpResponse.StatusCode == HttpStatusCode.OK)
         var responseText = streamReader.ReadToEnd();
     }
 }
+```
 
 
 ## Notes
 
 Call this method after your updates are completed using any third-party tool, external script, or integration so your catalog achieves **100% indexing**.
+
+
+[← Previous](FontError.md) | [Next →](Help.md)
+

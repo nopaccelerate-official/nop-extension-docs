@@ -8,4 +8,6 @@ Suppose, I have a core with name **"Solr_sample"** and my solr server is running
 
 http://localhost:8983/solr/Solr_sample/**update?stream.body=<delete><query>*:*</query></delete>&commit=true**
 
-![Test1](../img/Delete_Data.png)
+![Test1](../assets/img/Delete_Data.png)
+
+[← Previous](ReloadCore.md) | [Next →](StartSolronSystemStartup.md)

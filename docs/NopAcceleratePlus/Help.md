@@ -1,6 +1,6 @@
 # How to Get Help
 
-Please drop us an email at **support@nopaccelerate.com** with the issues you're facing.
+Please drop us an email at **[support@nopaccelerate.com](#)** with the issues you're facing.
 
 ---
 
@@ -28,3 +28,5 @@ Follow these steps:
 2. Click on the **“Start Record”** button and perform the steps to reproduce your issue.
 3. Click **“Stop Record”** once you finish. It will ask you to save a **.zip** file.
 4. Send us the saved **.zip** file via email.
+
+[← Previous](WebRequest.md)

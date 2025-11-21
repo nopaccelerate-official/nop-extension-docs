@@ -18,7 +18,7 @@ This plug-in displays **reward points** on the product detail page that a custom
 > Without `RewardPoints`, only static text will be displayed on the product details page (no reward points will be shown).
 
 
-![Test](../img/DisplayRewardpoint_configure.png)
+![Test](../assets/img/DisplayRewardpoint_configure.png)
 
 
 [← Previous](Licence.md) | [Next →](senerioOfUse.md)

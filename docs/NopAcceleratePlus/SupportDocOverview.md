@@ -8,20 +8,20 @@
 
 [JAVA Setup](JAVASetup.md)
 
-**[SOLR Setup](SOLRSetup.md)**
+[SOLR Setup](SOLRSetup.md)
 
--[What is SOLR ?](SOLR.md)
+- [What is SOLR ?](SOLR.md)
 
--[How to Start/Stop/Restart SOLR ?](StartSolr.md)
+- [How to Start/Stop/Restart SOLR ?](StartSolr.md)
 
--[Creating a new core](CreateCore.md)
+- [Creating a new core](CreateCore.md)
 
--[How to Delete core](DeleteCore.md)
+- [How to Delete core](DeleteCore.md)
 
--[How to Reload core](ReloadCore.md)
+- [How to Reload core](ReloadCore.md)
 
--[How to Delete indexed data](DeleteIndexData.md)
+- [How to Delete indexed data](DeleteIndexData.md)
 
--[Start SOLR on system startup](StartSolronSystemStartup.md)
+- [Start SOLR on system startup](StartSolronSystemStartup.md)
 
-[← Previous](#) | [Next →](nopAcceleratePlusProInstallation.md)
+[← Previous](index.md) | [Next →](nopAcceleratePlusProInstallation.md)

@@ -23,3 +23,5 @@
 [Font error in Google Chrome 'Refused to load the font `<URL>`'](FontError.md)
 
 [Implement WebRequest for StartIndexing method](WebRequest.md)
+
+[← Previous](0.3.0.md) | [Next →](ErrorWhileIndexing.md)

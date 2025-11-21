@@ -21,9 +21,9 @@ The `solr-version.zip` or `solr-version.tgz` files (where *version* is the versi
 - HTML documentation  
 - Solr tutorial  
 
-![Test](../img/Solr1.jpg)
+![Test](../assets/img/Solr1.jpg)
 
-![Test1](../img/Solr.jpg)
+![Test1](../assets/img/Solr.jpg)
 ---
 
 ## 2. Copy Downloaded Solr Version
@@ -33,10 +33,10 @@ Extract the downloaded file to a preferred location.
 We assume you extracted it to the **C:\\** drive and named the folder **Solr**.  
 So your Solr path becomes:
 
-![Test3](../img/drive.png)
+![Test3](../assets/img/drive.png)
 ---
 
 Hence, Solr is downloaded and Java is set up.  
 Now let's [start Solr](StartSolr.md).
 
-[← Previous](SOLRSetup.md) | [Next →](SOLR.md)
+[← Previous](JAVASetup.md) | [Next →](SOLR.md)

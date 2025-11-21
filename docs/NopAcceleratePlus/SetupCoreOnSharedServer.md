@@ -69,3 +69,6 @@ Return to **Core Setup**:
 - Perform **Indexing**.
 
 If indexing works successfully, your **remote Solr core setup is complete**.
+
+
+[← Previous](ErrorWhileIndexing.md) | [Next →](ConnectToSolr.md)

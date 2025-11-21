@@ -3,7 +3,7 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: white
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/weather-night
@@ -59,8 +59,27 @@ nav:
           - Overview: bundleDiscount/version-history.md
           - Version 1.0.0: bundleDiscount/1.0.0.md
           - Version 1.0.1: bundleDiscount/1.0.1.md
+          - Version 1.1.0: bundleDiscount/1.1.0.md
+          - Version 1.2.0: bundleDiscount/1.2.0.md
+          - Version 1.1.3: bundleDiscount/1.1.3.md
+          - Version 1.2.1: bundleDiscount/1.2.1.md
+          - Version 1.2.2: bundleDiscount/1.2.2.md
+          - Version 1.3.0: bundleDiscount/1.3.0.md
+          - Version 1.3.1: bundleDiscount/1.3.1.md
+          - Version 1.3.2: bundleDiscount/1.3.2.md
+          - Version 1.3.3: bundleDiscount/1.3.3.md
+          - Version 1.4.0: bundleDiscount/1.4.0.md
+
       - Installation:
-          - Licensing: bundleDiscount/getting-started.md
+          - Licensing: bundleDiscount/Licence.md  
+      - Configuration:
+            - Genral Tab Configuration: bundleDiscount/Configuration.md
+            - Bundle Configuration: 
+              - Manage Bundles:
+                  - Bundled Products: bundleDiscount/Configuration1.md
+                  - Add bundled products: bundleDiscount/Configuration2.md
+      - Scenerios of Use: bundleDiscount/senerioOfUse.md
+      - Help: bundleDiscount/Help.md
 
   - NopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md
@@ -79,9 +98,9 @@ nav:
           - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
       - Version History: 
         - Overview: NopAcceleratePlus/version-history.md        
-        # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
-        # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
-        # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
+        - Version 49.0.0: NopAcceleratePlus/49.0.0.md
+        - Version 0.13.2: NopAcceleratePlus/0.13.2.md
+        - Version 0.12.2: NopAcceleratePlus/0.12.2.md
         - Version 0.4.0: NopAcceleratePlus/0.4.0.md
         - Version 0.3.0.1115: NopAcceleratePlus/0.3.0.1115.md
         - Version 0.3.0.1056: NopAcceleratePlus/0.3.0.1056.md
@@ -109,3 +128,44 @@ nav:
         - Font Error : NopAcceleratePlus/FontError.md
         - WebRequest: NopAcceleratePlus/WebRequest.md
       - Help : NopAcceleratePlus/Help.md
+  
+  - Popup Engage :
+      - Overview: popupEngage/index.md
+      - Features: popupEngage/Feature.md
+      - Version History: 
+          - Overview: popupEngage/History.md
+          - Version 49.0.0: popupEngage/49.0.0.md
+          - Version 7.1.0: popupEngage/7.1.0.md         
+          - Version 6.1.0: popupEngage/6.1.0.md  
+          - Version 6.0.1: popupEngage/6.0.1.md         
+          - Version 1.1.0: popupEngage/1.1.0.md          
+          - Version 1.0.1: popupEngage/1.0.1.md
+          - Version 1.0.0: popupEngage/1.0.0.md          
+      - Installation:
+          - Licensing: popupEngage/Lincencing.md
+          - Configuration: popupEngage/Configuration.md
+          - Scenerios of Use: popupEngage/senerioOfUse.md
+          - Help: popupEngage/Help.md
+
+  - Auto Guest Register :
+      - Overview: AutoGuestRegister/index.md
+      - Features: AutoGuestRegister/Features.md
+      - Version History:
+        - Overview: AutoGuestRegister/History.md
+        - 49.0.0: AutoGuestRegister/49.0.0.md
+        - 1.4.0: AutoGuestRegister/1.4.0.md
+        - 1.3.0: AutoGuestRegister/1.3.0.md
+        - 1.2.0: AutoGuestRegister/1.2.0.md
+        - 1.1.0: AutoGuestRegister/1.1.0.md
+        - 1.0.0: AutoGuestRegister/1.0.0.md
+      - Installation:
+          - Licensing: AutoGuestRegister/Licence.md  
+          - Configuration:
+            - General Tab Configuration: AutoGuestRegister/GeneralTabConfiguration.md
+            - Email Configuration: AutoGuestRegister/EmailConfiguration.md
+          - Scenerios of Use:
+              - Guest Customer Register: AutoGuestRegister/GuestCustomerRegister.md
+              - Order Edit Page: AutoGuestRegister/OrderEditPage.md
+              - Notify with Email: AutoGuestRegister/NotifywithEmail.md
+              - Edit Message Template: AutoGuestRegister/EditMessageTemplate.md
+          - How to get Help: AutoGuestRegister/Howtogethelp.md
