@@ -10,6 +10,6 @@
 - Discount amount can or cannot be in percentage of bundle subtotal amount.
 - Position your bundles' list on the basis of selected widget zone.
 
-**Nopcommerce Supported Version(s):** 3.70, 3.80, 3.90 and 4.00.
+**Nopcommerce Supported Version(s):** 3.70, 3.80, 3.90 and 4.00, 4.10, 4.20, 4.30, 4.70, 4.80, 4.90
 
 [← Previous](index.md) | [Next →](version-history.md)

@@ -2,7 +2,7 @@
 
 **Pop-up Engage Plugin Overview**
 
-The Pop-up Engage plugin triggers based on *exit intent*. When a customer adds a product to their cart and tries to leave without checking out, the plugin displays a pop-up window.
+The Pop-up Engage plugin triggers based on exit intent. When a customer adds a product to their cart and tries to leave without checking out, the plugin displays a pop-up window.
 
 - **If the customer is not logged in:**  
   The pop-up asks them to subscribe using their email address.  
