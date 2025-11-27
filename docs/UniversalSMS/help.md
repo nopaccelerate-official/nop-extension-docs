@@ -9,3 +9,5 @@ You can also email us steps for generating issue at our end. For that you need t
 - Click on “Start Record” button and do your steps to produce your issue.  
 - Click “Stop Record” button once you complete recording steps. It will ask you to save a zip file.  
 - Send us saved zip file via email.  
+
+[← Previous](sendIndividualMessage.md)

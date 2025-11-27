@@ -5,3 +5,8 @@
   First one is **Customers → Customers → Edit (select any customer for edit) → Send message (tab)**.  
   Second one is **Sales → Orders → View (select any order to view) → Send message (tab)**.  
   If private message is enabled, then you can also send same message as private message to customer.
+
+
+![Individualmessage](../assets/img/SMS_IndividualMessage.png)
+
+[← Previous](developerUse.md) | [Next →](help.md)

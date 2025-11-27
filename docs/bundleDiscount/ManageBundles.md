@@ -2,7 +2,7 @@
 
 As you see in below image you can add multiple bundles for a base product.
 
-![Test](../assets/img/BundleDiscount_ManageBundle.png)
+![Test](../assets/img/BundleDiscount_Managebundle.png)
 
 - **Name** defines bundle name.  
 - **Discount Amount** defines the amount of discount to be applied on a bundle.  

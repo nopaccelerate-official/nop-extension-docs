@@ -6,7 +6,7 @@ As per the configuration set by admin, SMS will be sent to Vendor, Customer and 
 
 Below is image of how customer mobile number registration screen looks like with nopCommerce default theme.
 
-
+![VerifyOtp](../assets/img/SMS_VerifyOtp.png)
 
 If you want to change text displayed on OTP Verification page, you can find and edit following at **Configuration → Languages → View string resources.**
 
@@ -24,3 +24,7 @@ For further customization in view page, you can find **"RegistrationVerification
 ## Verify OTP if Skip while verification:
 
 If you want to verify OTP then you can click on verify OTP it will again redirect to RegistrationVerification page.
+
+![CustomerEvent](../assets/img/SMS_VerifyOtpVerification.png)
+
+[← Previous](sendTestMessageTab.md) | [Next →](developerUse.md)

@@ -6,3 +6,7 @@ You cannot use plug-in functionality unless you enable it.
 - **Admin mobile number country:** Select country administrator mobile number country.  
 - **Admin mobile number:** Add administrator mobile number without country code, space or dash.  
 - **Individual messages:** You can enable/disable individual message tab.  
+
+![Genral Tab](../assets/img/SMS_GenralTab.png)
+
+[← Previous](installation.md) | [Next →](interfaceSettingTab.md)

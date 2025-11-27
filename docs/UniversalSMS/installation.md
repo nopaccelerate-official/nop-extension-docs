@@ -6,3 +6,5 @@ It will ask you to enter your license key as shown in figure below, enter licens
 You may need to give read/write permission's to IIS user's on server where you deploy/host your website to install this plug-in.
 
 ![Logo](../assets/img/SMS_License.png)
+
+[← Previous](1.0.0.md) | [Next →](generalTab.md)

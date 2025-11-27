@@ -11,3 +11,5 @@ Universal SMS plug-in comes with developer API to send SMS messages, so when the
 Universal SMS Plug-in provide concatenate Function To Limit Characters in Message Tokens Values.
 
 Plug-in is also supported in multi-store configuration. We provide you pre-defined message templates which you can edit as per your need.
+
+[Next →](generalFeature.md)

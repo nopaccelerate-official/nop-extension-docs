@@ -27,11 +27,17 @@ theme:
     - navigation.path
     - navigation.breadcrumbs
     - header.autohide
+
 plugins:
   - search
   - awesome-pages
+
 extra:
   footer: © 2025 NopAccelerate • Built with❤️ by NopAccelerate Team
+
+extra_css:
+  - styles/hide-tabs.css
+
 nav:
   - Home: index.md
   - Display Reward Plugin:
@@ -82,7 +88,7 @@ nav:
           - Licensing: bundleDiscount/Licence.md  
           
       - Configuration:
-            - Genral Tab Configuration: bundleDiscount/Configuration.md
+            - General Tab Configuration: bundleDiscount/Configuration.md
             - Bundle Product Configuration:
               - Bundle Configuration: bundleDiscount/BundleConfiguration.md
               - Manage Product Bundles:
@@ -228,18 +234,21 @@ nav:
 
       - Version History:
         - Overview: UniversalSMS/History.md
-        - Version 1.0.0: UniversalSMS/1.0.0.md
-        - Version 1.1.0: UniversalSMS/1.1.0.md
-        - Version 1.1.1: UniversalSMS/1.1.1.md
-        - Version 1.2.0: UniversalSMS/1.2.0.md
-        - Version 1.3.0: UniversalSMS/1.3.0.md
-        - Version 1.4.0: UniversalSMS/1.4.0.md
-        - Version 1.5.0: UniversalSMS/1.5.0.md
-        - Version 1.6.0: UniversalSMS/1.6.0.md
-        - Version 1.6.1: UniversalSMS/1.6.1.md
-        - Version 1.7.0: UniversalSMS/1.7.0.md
-        - Version 1.7.1: UniversalSMS/1.7.1.md
+        - Version 49.0.0: UniversalSMS/49.0.0.md
+        - Version 7.0.1: UniversalSMS/7.0.1.md
         - Version 1.8.0: UniversalSMS/1.8.0.md
+        - Version 1.7.1: UniversalSMS/1.7.1.md
+        - Version 1.7.0: UniversalSMS/1.7.0.md
+        - Version 1.6.1: UniversalSMS/1.6.1.md
+        - Version 1.6.0: UniversalSMS/1.6.0.md
+        - Version 1.5.0: UniversalSMS/1.5.0.md
+        - Version 1.4.0: UniversalSMS/1.4.0.md
+        - Version 1.3.0: UniversalSMS/1.3.0.md
+        - Version 1.2.0: UniversalSMS/1.2.0.md
+        - Version 1.1.1: UniversalSMS/1.1.1.md
+        - Version 1.1.0: UniversalSMS/1.1.0.md
+        - Version 1.0.0: UniversalSMS/1.0.0.md
+
 
       - Getting started:
         - Installation & Licensing: UniversalSMS/installation.md

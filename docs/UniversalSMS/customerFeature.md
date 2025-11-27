@@ -17,3 +17,5 @@ Send message to customer on following event and store owner can enable/disable e
 11. Order Completed  
 12. Return Request Initiated  
 13. Change of Return Request Status by Admin/Vendor  
+
+[← Previous](generalFeature.md) | [Next →](vendorFeature.md)

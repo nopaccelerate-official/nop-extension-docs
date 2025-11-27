@@ -4,7 +4,7 @@
 
 - [Bundle Discount ](bundleDiscount/)
 
-- [Nop Accelerate Plus ](NopAcceleratePlus/)
+- [nopAccelerate Plus ](NopAcceleratePlus/)
 
 - [Popup Engage ](popupEngage/)
 

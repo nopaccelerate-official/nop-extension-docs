@@ -4,5 +4,7 @@ Next thing you need to do is to add interface settings in which you need to conf
 
 You can configure have different SMS providers per country as per your requirements. You can create a setting for below interface type.
 
-[SMS Http API](#)  
-[Twilio SMS API](#)
+[SMS Http API](smsHttpApi.md)  
+[Twilio SMS API](twilioSmsApi.md)
+
+[← Previous](generalTab.md) | [Next →](smsHttpApi.md)

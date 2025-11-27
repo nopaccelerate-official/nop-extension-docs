@@ -9,3 +9,5 @@ Send message to Admin on following event and store owner can enable/disable even
 3. Order Paid  
 4. Order Completed  
 5. Return Request Initiated by Customer  
+
+[← Previous](vendorFeature.md) | [Next →](developerFeature.md)
