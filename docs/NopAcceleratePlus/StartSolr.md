@@ -8,7 +8,7 @@ To start the Solr Server, all you need is to run few commands on your command pr
 
 ## 1. Open Command prompt and execute below commands
 
-[Note: You can also start solr on system startup, please check [steps here](StartSolronSystemStartup.md).]
+[Note: You can also start solr on system startup, please check [steps here](StartSolronSystemStartup.md).] 
 
 a) select the location of bin folder of c:/ > solr > bin
 
