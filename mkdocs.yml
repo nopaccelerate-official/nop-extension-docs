@@ -62,7 +62,7 @@ nav:
       - Installation:
           - Licensing: bundleDiscount/getting-started.md
 
-  - NopAccelerate Plus:
+  - nopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md
       - Support Document:
         - Overview: NopAcceleratePlus/SupportDocOverview.md
