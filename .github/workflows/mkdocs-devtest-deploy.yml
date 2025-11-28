@@ -12,7 +12,16 @@ jobs:
     steps:
     - name: Checkout Repo
       uses: actions/checkout@v3
-
+    - name: Debug Secrets
+      run: |
+        echo "IP length: ${#SERVER_IP}"
+        echo "USER length: ${#SERVER_USER}"
+        echo "KEY length: ${#SERVER_SSH_KEY}"
+      env:
+        SERVER_IP: ${{ secrets.SERVER_IP }}
+        SERVER_USER: ${{ secrets.SERVER_USER }}
+        SERVER_SSH_KEY: ${{ secrets.SERVER_SSH_KEY }}
+        
     - name: Deploy to Instance
       uses: appleboy/ssh-action@v1.0.3
       with:
