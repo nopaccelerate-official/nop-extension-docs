@@ -1,5 +1,5 @@
 # Available Plugins
 
-- [Display Reward Point](displayReward/)
+- [display Reward Point](displayReward/)
 
 - [Bundle Discount ](bundleDiscount/)
