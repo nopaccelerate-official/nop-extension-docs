@@ -1,0 +1,20 @@
+# MkDocs build output
+site/
+ 
+# Python virtual environment
+venv/
+env/
+ 
+# Python cache
+__pycache__/
+*.pyc
+ 
+# MkDocs cache (if using plugins)
+.cache/
+ 
+# OS / Editor files
+.DS_Store
+Thumbs.db
+ 
+# VS Code settings
+.vscode/
