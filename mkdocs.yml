@@ -52,7 +52,7 @@ nav:
           - Scenerios of Use: displayReward/senerioOfUse.md
           - Help: displayReward/Help.md
 
-  - bundle Discount Plugin:
+  - Bundle Discount Plugin:
       - Overview: bundleDiscount/index.md
       - Features: bundleDiscount/features.md
       - Version History: 
