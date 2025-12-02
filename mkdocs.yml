@@ -1,4 +1,4 @@
-site_name: NopAccelerate Docs
+site_name: nopAccelerate Docs
 theme:
   name: material
   custom_dir: overrides
