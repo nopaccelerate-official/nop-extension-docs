@@ -3,6 +3,12 @@
 This page contains version history information about plug-in.  
 You can directly go to a version history details by clicking on a version link from below:
 
+[Version 49.0.0](49.0.0.md)
+
+[Version 0.13.2](0.13.2.md)
+
+[Version 0.12.2](0.12.2.md)
+
 [Version 0.4.0](0.4.0.md)
 
 [Version 0.3.0.1115](0.3.0.1115.md)
@@ -26,3 +32,5 @@ You can directly go to a version history details by clicking on a version link f
 [Version 0.3.0.666](0.3.0.666.md)
 
 [Version 0.3.0](0.3.0.md)
+
+[← Previous](StartSolronSystemStartup.md) | [Next →](49.0.0.md)

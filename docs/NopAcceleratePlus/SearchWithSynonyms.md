@@ -33,3 +33,5 @@ This tells Solr that searching for **NoteBook** should return results for **Lapt
 
 > **Important:** After modifying the synonyms file, you must **reload the core** for the changes to take effect.
 
+
+[← Previous](Category&ManufacutreNavigation.md) | [Next →](FacetFilterWith%25.md)

@@ -20,7 +20,7 @@ After successful installation, you can check the Java installation path:
 - **For Windows 64-bit:**  
   `C:\Program Files\Java`
 
-    ![Test](../img/javadownload.png)
+    ![Test](../assets/img/javadownload.png)
 ---
 
 ## 2. Define the `JAVA_HOME` Environment Variable
@@ -44,12 +44,12 @@ Do one of the following:
 
 ### b) Click the **Environment Variables** button.
 
-![Test1](../img/EnvironmentVariable.png)
+![Test1](../assets/img/EnvironmentVariable.png)
 ---
 
 ### c) Under **System Variables**, click **New**.
 
-![Test3](../img/Systemvariable.png)
+![Test3](../assets/img/Systemvariable.png)
 ---
 
 ### d) Add the JAVA_HOME Variable
@@ -61,14 +61,14 @@ Do one of the following:
   Add your Java installation path, for example:  
   `C:\Program Files\Java\jre1.8.0_201`
 
-![Test4](../img/JDK_Path.png)
+![Test4](../assets/img/JDK_Path.png)
 ---
 
 Click **OK**.  
 You will now see the newly added `JAVA_HOME` variable in the environment variables list.
 
-![Test5](../img/JAVAHOMEinList.png)
+![Test5](../assets/img/JAVAHOMEinList.png)
 
 You have successfully configured the Java environment variable.
 
-[← Previous](JAVASetup.md) | [Next →](SOLRSetup.md)
+[← Previous](nopAcceleratePlusProInstallation.md) | [Next →](SOLRSetup.md)

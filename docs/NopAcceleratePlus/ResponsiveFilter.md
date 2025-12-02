@@ -50,3 +50,6 @@ If you're **not** using any of the themes listed above, apply **Section 2**.
 
 - Replace **`max-width:1000px`** with **`max-width:1024px`**
 - Replace **`min-width:1001px`** with **`min-width:1025px`**
+
+
+[← Previous](LicensingIssues.md) | [Next →](FontError.md)

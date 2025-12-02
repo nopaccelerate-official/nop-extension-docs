@@ -1,5 +1,19 @@
 # Available Plugins
 
-- [display Reward Point](displayReward/)
+- [Display Reward Point](displayReward/)
 
 - [Bundle Discount ](bundleDiscount/)
+
+- [nopAccelerate Plus ](NopAcceleratePlus/)
+
+- [Popup Engage ](popupEngage/)
+
+- [Auto Guest Register ](AutoGuestRegister/)
+
+- [Universal ZipCode ](UniversalZipCode/)
+
+- [Universal SMS ](UniversalSMS/)
+
+- [Universal Product Ribbon Plugin](ProductRibbons/)
+
+- [nopAccelerate CDN](nopAccelerateCDN/)

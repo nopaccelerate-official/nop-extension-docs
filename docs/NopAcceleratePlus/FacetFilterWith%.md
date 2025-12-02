@@ -17,3 +17,5 @@ To fix this:
 - Rename or clean the facet data to remove the `%` symbol.
 
 Once the `%` character is removed, faceting will work properly again.
+
+[← Previous](SearchWithSynonyms.md) | [Next →](SolrService.md)

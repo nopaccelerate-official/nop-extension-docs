@@ -16,4 +16,4 @@ To know more about Solr feature please [check here](https://solr.apache.org/feat
 
 Let us start with [Solr setup](SOLRSetup.md) on your machine.
 
-[← Previous](SOLR.md) | [Next →](StartSolr.md)
+[← Previous](SOLRSetup.md) | [Next →](StartSolr.md)

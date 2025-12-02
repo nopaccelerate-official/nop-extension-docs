@@ -1,0 +1,9 @@
+/* Hide the entire top tabs bar */
+.md-tabs {
+  display: none !important;
+}
+
+/* Also hide the underline active tab */
+.md-tabs__link {
+  display: none !important;
+}

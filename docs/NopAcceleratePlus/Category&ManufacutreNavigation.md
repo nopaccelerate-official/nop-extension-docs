@@ -27,3 +27,5 @@ You need to update the controller reference in your NopCommerce theme file.
    **_ColumnsTwo.cshtml**
 
 2. Replace the controller name with **NopAcceleratePlusWebCatalog** This will correctly load **CategoryNavigation** and **Manufacturer Navigation** while using the nopAccelerate Catalog Plugin. 
+
+[← Previous](TimeOutExpiration.md) | [Next →](SearchWithSynonyms.md)

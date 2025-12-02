@@ -12,6 +12,6 @@ Once installed:
 3. The plug-in will prompt you to enter your license key (as shown in the figure below).
 4. Enter the license key you received via email after purchasing the plug-in from our website.
 
-![Licence](../img/disaplaylincence.png)
+![Licence](../assets/img/disaplaylincence.png)
 
 [← Previous](1.3.0.md) | [Next →](Configuration.md)

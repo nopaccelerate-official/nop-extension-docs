@@ -2,8 +2,8 @@ site_name: NopAccelerate Docs
 theme:
   name: material
   palette:
-    - scheme: default 
-      primary: white
+    - scheme: default
+      primary: indigo
       accent: indigo
       toggle:
         icon: material/weather-night
@@ -27,11 +27,17 @@ theme:
     - navigation.path
     - navigation.breadcrumbs
     - header.autohide
+
 plugins:
   - search
   - awesome-pages
+
 extra:
-  footer: © 2025 NopAccelerate • Built with ❤️ by NopAccelerate Team
+  footer: © 2025 NopAccelerate • Built with❤️ by NopAccelerate Team
+
+extra_css:
+  - styles/hide-tabs.css
+
 nav:
   - Home: index.md
   - Display Reward Plugin:
@@ -57,12 +63,48 @@ nav:
       - Features: bundleDiscount/features.md
       - Version History: 
           - Overview: bundleDiscount/version-history.md
-          - Version 1.0.0: bundleDiscount/1.0.0.md
+          - Version 49.0.0: bundleDiscount/49.0.0.md
+          - version 7.1.1: bundleDiscount/7.1.1.md
+          - Version 7.1.0: bundleDiscount/7.1.0.md
+          - Version 7.0.0: bundleDiscount/7.0.0.md
+          - Version 6.0.0: bundleDiscount/6.0.0.md
+          - Version 2.1.0: bundleDiscount/2.1.0.md
+          - Version 2.0.1: bundleDiscount/2.0.1.md
+          - Version 1.4.0: bundleDiscount/1.4.0.md
+          - Version 1.3.3: bundleDiscount/1.3.3.md
+          - Version 1.3.2: bundleDiscount/1.3.2.md
+          - Version 1.3.1: bundleDiscount/1.3.1.md
+          - Version 1.3.0: bundleDiscount/1.3.0.md
+          - Version 1.2.2: bundleDiscount/1.2.2.md
+          - Version 1.2.1: bundleDiscount/1.2.1.md
+          - Version 1.2.0: bundleDiscount/1.2.0.md
+          - Version 1.1.3: bundleDiscount/1.1.3.md
+          - Version 1.1.0: bundleDiscount/1.1.0.md
           - Version 1.0.1: bundleDiscount/1.0.1.md
-      - Installation:
-          - Licensing: bundleDiscount/getting-started.md
+          - Version 1.0.0: bundleDiscount/1.0.0.md
 
-  - nopAccelerate Plus:
+
+      - Installation:
+          - Licensing: bundleDiscount/Licence.md  
+          
+      - Configuration:
+            - General Tab Configuration: bundleDiscount/Configuration.md
+            - Bundle Product Configuration:
+              - Bundle Configuration: bundleDiscount/BundleConfiguration.md
+              - Manage Product Bundles:
+                  - Manage Bundles: bundleDiscount/ManageBundles.md
+                  - Bundled Products: bundleDiscount/BundledProducts.md
+                  - Add bundled products: bundleDiscount/Addbundledproducts.md
+      
+      - Scenerios of Use: 
+        - Display Bundle List: bundleDiscount/senerioOfUse.md
+        - Attribute Pop-up: bundleDiscount/AttributePopup.md
+        - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
+    
+      - Help: bundleDiscount/Help.md
+      - Bundled Discount RealOnePageCheckout Compatibility: bundleDiscount/BundleDiscountnoptemplate.md
+
+  - NopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md
       - Support Document:
         - Overview: NopAcceleratePlus/SupportDocOverview.md
@@ -79,9 +121,9 @@ nav:
           - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
       - Version History: 
         - Overview: NopAcceleratePlus/version-history.md        
-        # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
-        # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
-        # - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
+        - Version 49.0.0: NopAcceleratePlus/49.0.0.md
+        - Version 0.13.2: NopAcceleratePlus/0.13.2.md
+        - Version 0.12.2: NopAcceleratePlus/0.12.2.md
         - Version 0.4.0: NopAcceleratePlus/0.4.0.md
         - Version 0.3.0.1115: NopAcceleratePlus/0.3.0.1115.md
         - Version 0.3.0.1056: NopAcceleratePlus/0.3.0.1056.md
@@ -109,3 +151,154 @@ nav:
         - Font Error : NopAcceleratePlus/FontError.md
         - WebRequest: NopAcceleratePlus/WebRequest.md
       - Help : NopAcceleratePlus/Help.md
+  
+  - Popup Engage :
+      - Overview: popupEngage/index.md
+      - Features: popupEngage/Feature.md
+      - Version History: 
+          - Overview: popupEngage/History.md
+          - Version 49.0.0: popupEngage/49.0.0.md
+          - Version 7.1.0: popupEngage/7.1.0.md    
+          - Version 47.0.0: popupEngage/47.0.0.md     
+          - Version 6.1.0: popupEngage/6.1.0.md  
+          - Version 6.0.1: popupEngage/6.0.1.md         
+          - Version 1.1.0: popupEngage/1.1.0.md          
+          - Version 1.0.1: popupEngage/1.0.1.md
+          - Version 1.0.0: popupEngage/1.0.0.md          
+      - Installation:
+          - Licensing: popupEngage/Licence.md
+          - Configuration: popupEngage/Configuration.md
+          - Scenerios of Use: popupEngage/senerioOfUse.md
+          - Help: popupEngage/Help.md
+
+  - Auto Guest Register :
+      - Overview: AutoGuestRegister/index.md
+      - Features: AutoGuestRegister/Features.md
+      - Version History:
+        - Overview: AutoGuestRegister/History.md
+        - 49.0.0: AutoGuestRegister/49.0.0.md
+        - 1.4.0: AutoGuestRegister/1.4.0.md
+        - 1.3.0: AutoGuestRegister/1.3.0.md
+        - 1.2.0: AutoGuestRegister/1.2.0.md
+        - 1.1.0: AutoGuestRegister/1.1.0.md
+        - 1.0.0: AutoGuestRegister/1.0.0.md
+      - Installation:
+          - Licensing: AutoGuestRegister/Licence.md  
+          - Configuration:
+            - General Tab Configuration: AutoGuestRegister/GeneralTabConfiguration.md
+            - Email Configuration: AutoGuestRegister/EmailConfiguration.md
+          - Scenerios of Use:
+              - Guest Customer Register: AutoGuestRegister/GuestCustomerRegister.md
+              - Order Edit Page: AutoGuestRegister/OrderEditPage.md
+              - Notify with Email: AutoGuestRegister/NotifywithEmail.md
+              - Edit Message Template: AutoGuestRegister/EditMessageTemplate.md
+          - How to get Help: AutoGuestRegister/Howtogethelp.md
+
+  - Universal ZipCode :
+      - Overview: UniversalZipCode/index.md
+      - Features: UniversalZipCode/Features.md
+      - Version History: 
+          - Overview: UniversalZipCode/History.md
+          - Version 49.0.0: UniversalZipCode/49.0.0.md
+          - Version 6.0.1: UniversalZipCode/6.0.1.md         
+          - Version 1.4.0: UniversalZipCode/1.4.0.md 
+          - Version 1.3.0: UniversalZipCode/1.3.0.md         
+          - Version 1.2.0: UniversalZipCode/1.2.0.md         
+          - Version 1.1.1: UniversalZipCode/1.1.1.md          
+          - Version 1.1.0: UniversalZipCode/1.1.0.md          
+          - Version 1.0.1: UniversalZipCode/1.0.1.md
+          - Version 1.0.0: UniversalZipCode/1.0.0.md
+          
+      - Installation:
+          - Licensing: UniversalZipCode/Licence.md
+          - Configuration:
+            - General Tab Configuration: UniversalZipCode/GeneralTabConfiguration.md
+            - Zipcode List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
+            - Zipcode Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
+          - Scenerios of Use:
+            - Auto ask ZipCode on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
+            - Ask ZipCode on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
+            - Ask ZipCode on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
+            - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
+          - Help: UniversalZipCode/Help.md
+          
+  - Universal SMS:
+      - Overview: UniversalSMS/index.md
+      - Features:
+        - General Feature: UniversalSMS/generalFeature.md
+        - Customer Feature: UniversalSMS/customerFeature.md
+        - Vendor Feature: UniversalSMS/vendorFeature.md
+        - Admin Feature: UniversalSMS/adminFeature.md
+        - Developer Feature: UniversalSMS/developerFeature.md
+        - Custom Message Tokens: UniversalSMS/customMessageTokens.md
+        - Concatenate Function: UniversalSMS/concatenateFunction.md
+
+      - Version History:
+        - Overview: UniversalSMS/History.md
+        - Version 49.0.0: UniversalSMS/49.0.0.md
+        - Version 7.0.1: UniversalSMS/7.0.1.md
+        - Version 1.8.0: UniversalSMS/1.8.0.md
+        - Version 1.7.1: UniversalSMS/1.7.1.md
+        - Version 1.7.0: UniversalSMS/1.7.0.md
+        - Version 1.6.1: UniversalSMS/1.6.1.md
+        - Version 1.6.0: UniversalSMS/1.6.0.md
+        - Version 1.5.0: UniversalSMS/1.5.0.md
+        - Version 1.4.0: UniversalSMS/1.4.0.md
+        - Version 1.3.0: UniversalSMS/1.3.0.md
+        - Version 1.2.0: UniversalSMS/1.2.0.md
+        - Version 1.1.1: UniversalSMS/1.1.1.md
+        - Version 1.1.0: UniversalSMS/1.1.0.md
+        - Version 1.0.0: UniversalSMS/1.0.0.md
+
+
+      - Getting started:
+        - Installation & Licensing: UniversalSMS/installation.md
+
+      - Configuration:
+        - General Tab: UniversalSMS/generalTab.md
+        - Interface Setting Tab:
+          - Overview: UniversalSMS/interfaceSettingTab.md
+          - SMS Http API: UniversalSMS/smsHttpApi.md
+          - Twilio SMS API: UniversalSMS/twilioSmsApi.md
+        - Customer Event Settings Tab: UniversalSMS/customerEventSettingsTab.md
+        - Admin Event Setting Tab: UniversalSMS/adminEventSettingTab.md
+        - Vendor Event Setting Tab: UniversalSMS/vendorEventSettingTab.md
+        - Send Test Message Tab: UniversalSMS/sendTestMessageTab.md
+
+      - Scenarios of use:
+        - General Use: UniversalSMS/generalUse.md
+        - Developer Use: UniversalSMS/developerUse.md
+        - Send Individual message: UniversalSMS/sendIndividualMessage.md
+
+      - How to get help: UniversalSMS/help.md
+      
+  - Product Ribbons:
+    - Overview: ProductRibbons/index.md
+    - Features: ProductRibbons/Features.md
+    - Version History:
+      - Overview: ProductRibbons/History.md
+      - Version 49.0.0: ProductRibbons/49.0.0.md
+      - Version 1.0.0: ProductRibbons/1.0.0.md
+    - Installation:
+      - Licensing: ProductRibbons/Licence.md  
+      - Configuration:
+          - General Settings: ProductRibbons/GeneralSettings.md
+          - Manage Product Ribbons Configurations:
+            - Manage Product Ribbon: ProductRibbons/ManageProductRibbon.md
+            - Add New Ribbon: ProductRibbons/AddNewRibbon.md
+            - Add product picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
+            - Add Products Tab: ProductRibbons/AddProductsTab.md
+          - Scenerios of Use:
+              - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
+
+  - nopAccelerate CDN:
+    - Overview: nopAccelerateCDN/index.md
+    - Features: nopAccelerateCDN/Feature.md
+    - Version History:
+      - Overview: nopAccelerateCDN/History.md
+      - Version 49.0.0: nopAccelerateCDN/49.0.0.md
+    - Installation:
+      - Licensing: nopAccelerateCDN/License.md  
+      - Configuration:
+          - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
+         
