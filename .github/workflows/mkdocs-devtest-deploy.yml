@@ -1,0 +1,31 @@
+name: Deploy MkDocs to Server
+
+on:
+  push:
+    branches:
+      - devtest
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+
+    - name: Install SSH Client
+      run: sudo apt-get update && sudo apt-get install -y openssh-client
+
+    - name: Add SSH key
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+
+    - name: Add Known Hosts (disable checking)
+      run: |
+        echo -e "Host *\n  StrictHostKeyChecking no" > ~/.ssh/config
+
+    - name: Deploy via SSH
+      run: |
+        ssh ubuntu@${{ secrets.SERVER_IP }} "bash /home/ubuntu/deploy.sh"
