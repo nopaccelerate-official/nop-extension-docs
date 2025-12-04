@@ -291,4 +291,15 @@ nav:
             - Add Products Tab: ProductRibbons/AddProductsTab.md
           - Scenerios of Use:
               - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
-          - How to get Help: ProductRibbons/Howtogethelp.md
+
+  - nopAccelerate CDN:
+    - Overview: nopAccelerateCDN/index.md
+    - Features: nopAccelerateCDN/Feature.md
+    - Version History:
+      - Overview: nopAccelerateCDN/History.md
+      - Version 49.0.0: nopAccelerateCDN/49.0.0.md
+    - Installation:
+      - Licensing: nopAccelerateCDN/License.md  
+      - Configuration:
+          - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
+         
