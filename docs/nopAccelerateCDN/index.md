@@ -1,5 +1,7 @@
 **CDN Plugin Overview**
 
+![CDN Plugin](../assets/img/Cdn_logo.png)
+
 Integrate your nopCommerce store with Content Delivery Network (CDN) with ease with this nopCommerce CDN Plugin. The nopAccelerate CDN takes the technical bite out of getting your store set up with a powerful CDN. It will work with any CDN Provider that supports Pull Zone Configuration.
 
 The integration of a Content Delivery Network (CDN) into your website remains one of the easiest and most cost-effective ways to improve web performance. nopAccelerate CDN Plugin supports several CDN service providers and makes the integration into the nopCommerce simple.

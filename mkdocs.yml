@@ -304,4 +304,6 @@ nav:
       - Licensing: nopAccelerateCDN/License.md  
       - Configuration:
           - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
-         
+      - Scenerios of Use:
+          - Display Product Ribbon on Front-end: nopAccelerateCDN/DisplyCdnFront.md
+  
