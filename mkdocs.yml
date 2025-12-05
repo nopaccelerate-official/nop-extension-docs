@@ -305,5 +305,5 @@ nav:
       - Configuration:
           - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
       - Scenerios of Use:
-          - Display Product Ribbon on Front-end: nopAccelerateCDN/DisplyCdnFront.md
+          - Display Front-end CDN page: nopAccelerateCDN/DisplyCdnFront.md
   
