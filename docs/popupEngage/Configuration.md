@@ -15,12 +15,12 @@ These settings control the popup that appears when a customer visits the homepag
 
 - **Title :** Enter the title text you want to show on the popup.
 
-- **Cookie Duration Minutes:**  Define how long (in minutes) the popup should remain suppressed after it is shown.
+- **Cookie Duration Seconds:**  Define how long (in seconds) the popup should remain suppressed after it is shown.
 
 - **Examples:** 
  - `0` → shows every time  
- - `1440` → once per day  
- - `43200` → once per month  
+ - `86,400` → once per day  
+ - `2,592,000` → once per month  
 
 - **Behavior**
 - Displays the popup using the configured topic and title.
@@ -37,7 +37,7 @@ These settings control the popup shown when a user is about to leave the website
 
 - **Title :** Enter a title for the abandoned cart popup.
 
-- **Suppression Minutes :** Set how long the popup should stay suppressed once it has appeared.  
+- **Suppression Seconds :** Set how long the popup should stay suppressed once it has appeared.  
 - This prevents it from showing repeatedly in a short time.
 
 - **Behavior**
@@ -51,6 +51,6 @@ After adjusting all configurations, click **Save** to apply your changes.
 
 
 ![confgiure1](../assets/img/popup_configure1.png)
-![confgiure2](../assets/img/popup_configure.png)
+![confgiure2](../assets/img/popup_configure(2).png)
 
 [← Previous](Licence.md) | [Next →](senerioOfUse.md)
