@@ -15,7 +15,7 @@ These settings control the popup that appears when a customer visits the homepag
 
 - **Title :** Enter the title text you want to show on the popup.
 
-- **Cookie Duration Sconds:**  Define how long (in seconds) the popup should remain suppressed after it is shown.
+- **Cookie Duration Seconds:**  Define how long (in seconds) the popup should remain suppressed after it is shown.
 
 - **Examples:** 
  - `0` → shows every time  
