@@ -3,14 +3,14 @@ This ensures customers only see payment options that are valid for their entered
 
 ---
 
-### 1. When the Zip Code is *not* available for COD  
+### 1. When the Zip Code is **not** available for COD  
 The COD payment method is removed from the list.
 
 ![zipcode_COD](../assets/img/zipcode_cod_not_avilable.png)
 
 ---
 
-### 2. When the Zip Code *is* available for COD  
+### 2. When the Zip Code **is** available for COD  
 The COD payment method is displayed normally.
 
 ![zipcode_COD](../assets/img/zipcode_cod.png)

@@ -216,12 +216,12 @@ nav:
           - Licensing: UniversalZipCode/Licence.md
           - Configuration:
             - General Tab Configuration: UniversalZipCode/GeneralTabConfiguration.md
-            - Zipcode List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
-            - Zipcode Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
+            - Zip Code List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
+            - Zip Code Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
           - Scenerios of Use:
-            - Auto ask ZipCode on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
-            - Ask ZipCode on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
-            - Ask ZipCode on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
+            - Auto-ask Zip Code on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
+            - Ask Zip Code on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
+            - Ask Zip Code on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
             - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
           - Help: UniversalZipCode/Help.md
           
@@ -293,6 +293,7 @@ nav:
             - Add Products Tab: ProductRibbons/AddProductsTab.md
           - Scenerios of Use:
               - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
+          - Help: ProductRibbons/Help.md
 
   - nopAccelerate CDN:
     - Overview: nopAccelerateCDN/index.md

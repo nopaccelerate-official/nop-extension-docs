@@ -14,6 +14,6 @@
 
 - [Universal SMS ](UniversalSMS/)
 
-- [Universal Product Ribbon Plugin](ProductRibbons/)
+- [Universal Product Ribbon ](ProductRibbons/)
 
 - [nopAccelerate CDN](nopAccelerateCDN/)

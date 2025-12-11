@@ -1,14 +1,15 @@
-Once Successfully Ribbon is created, New tab with name "Add Product" will be display with Empty grid with option to **"Add new product"** button.  
-On click of **"Add new product"** Po-pup will be display as below:
+Once the ribbon is successfully created, a new tab named **Add Product** will be displayed with an empty grid and an option to use the **Add New Product** button
+When you click the **Add New Product** button, a pop-up will appear as shown below:
 
 ![Add_Product](../assets/img/ProductRibbion_Add_Product_InRibbon.png)
 
-Pop-up will display list of all products & have option to filter and select.  
-Selected product > Save > product will added to grid as below.  
+The pop-up will display a list of all products and have options to filter and select.
+After selecting a product and clicking Save, the product will be added to the grid as shown below.
 
-Product grid have below list of columns:  
-- **Name** - Name of the product.  
-- **Published** - Product is published or not that will display.
+The product grid has the following columns: 
+
+**Name** - Name of the product.  
+**Published** - Product is published or not that will display.
 
 ![Product_List](../assets/img/ProductRibbion_Product.png)
 
