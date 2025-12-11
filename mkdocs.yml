@@ -289,7 +289,7 @@ nav:
           - Manage Product Ribbons Configurations:
             - Manage Product Ribbon: ProductRibbons/ManageProductRibbon.md
             - Add New Ribbon: ProductRibbons/AddNewRibbon.md
-            - Add product picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
+            - Add Product Picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
             - Add Products Tab: ProductRibbons/AddProductsTab.md
           - Scenerios of Use:
               - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
