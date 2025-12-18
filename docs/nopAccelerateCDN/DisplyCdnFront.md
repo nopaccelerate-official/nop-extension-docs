@@ -2,4 +2,3 @@
 
 ![Configuration](../assets/img/CDN_Front.png)
 
-**Note: The correct purchase hostname has not been added yet, so the image is not loading properly.**
