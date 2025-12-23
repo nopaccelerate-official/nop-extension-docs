@@ -2,3 +2,5 @@
 
 ![Configuration](../assets/img/CDN_Front.png)
 
+[← Previous](Configuration.md)  | [Next →](Help.md)
+

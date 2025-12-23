@@ -299,7 +299,7 @@ nav:
     - Overview: nopAccelerateCDN/index.md
     - Features: nopAccelerateCDN/Feature.md
     - Version History:
-      - Overview: nopAccelerateCDN/History.md
+      - Version History: nopAccelerateCDN/History.md
       - Version 49.0.0: nopAccelerateCDN/49.0.0.md
     - Installation:
       - Licensing: nopAccelerateCDN/License.md  
@@ -307,4 +307,5 @@ nav:
           - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
       - Scenerios of Use:
           - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
+      - Help: nopAccelerateCDN/Help.md
   
