@@ -1,11 +1,11 @@
 # Send Test Message Tab
 
-You can send message using this tab.
+You can use this tab to send a test message.
 
-- **Country ISD code:** Enter country two letter ISD code for mobile number country.  
-- **Mobile number:** Enter mobile number.  
-- **Select Route:** Select route for setting message. If you do not configure any interface setting then you can not select route and unable to send message.  
-- **Message Text:** Enter message text.  
+- **Country ISD code:** Enter the two-letter ISD code of the mobile number’s country.
+- **Mobile number:** Enter the recipient’s mobile number..  
+- **Select Route:** Choose the route for sending the message. If no interface settings are configured, you will not be able to select a route or send the message.
+- **Message Text:** Enter the message content you want to send.  
 
 ![SendTestMessage](../assets/img/SMS_SendTest.png)
 

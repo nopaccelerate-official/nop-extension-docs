@@ -1,6 +1,6 @@
 # Admin Event Setting Tab
 
-Same as customer event settings, you can set event settings for administrator from “Admin Event Settings” tab as shown in image below:
+Similar to the Customer Event Settings, you can configure event settings for administrators from the Admin Event Settings tab, as shown in the image below.
 
 ![AdminEvent](../assets/img/SMS_AdminEvent.png)
 

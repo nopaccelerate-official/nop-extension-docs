@@ -1,9 +1,9 @@
 # Developer Use
 
-**Using Universal SMS Plugin to Send Message from External Plug-in(s):**
+**Using the Universal SMS Plugin to Send Messages from External Plug-ins:**
 
-You can also use Universal SMS Plug-in to send message from external plug-in(s). For this you need to follow following steps:
+You can use the Universal SMS Plugin to send messages from external plug-ins. To do this, follow the steps below:
 
-**Step 1:** Add reference Universal SMS Plug-in Assembly(DLL) which is located under **Plugins → XcellenceIt.Sms** folder as shown below.
+**Step 1:** Add a reference to the Universal SMS Plugin assembly (DLL), which is located in the **Plugins → XcellenceIt.Sms** folder, as shown below.
 
 [← Previous](generalUse.md) | [Next →](sendIndividualMessage.md)

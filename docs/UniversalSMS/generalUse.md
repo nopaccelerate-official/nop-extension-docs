@@ -1,6 +1,6 @@
 # General Use
 
-As per the configuration set by admin, SMS will be sent to Vendor, Customer and Admin regarding the event that took place. The event is configured by the admin.
+Based on the configuration set by the admin, SMS notifications will be sent to Vendors, Customers, and Admins for the events that occur. These events are configured by the admin.
 
 **Verify OTP:**
 
@@ -8,22 +8,20 @@ Below is image of how customer mobile number registration screen looks like with
 
 ![VerifyOtp](../assets/img/SMS_VerifyOtp.png)
 
-If you want to change text displayed on OTP Verification page, you can find and edit following at **Configuration → Languages → View string resources.**
-
+If you want to change the text displayed on the OTP Verification page, you can edit the following resources at **Configuration → Languages → View String Resources**:
 plugins.xcellenceit.sms.fields.onetimepassword  
-plugins.xcellenceit.sms.fields.onetimepassword.hint  
-plugins.xcellenceit.sms.fields.otpfail  
-plugins.xcellenceit.sms.fields.otpfheading  
-plugins.xcellenceit.sms.fields.otprequired  
-
-For further customization in view page, you can find **"RegistrationVerification.cshtml"** placed at  
-“/Plugins/XcellenceIt.Sms/Views/NopSms” directory in your website folder.
+plugins.xcellenceit.sms.fields.onetimepassword.hint
+plugins.xcellenceit.sms.fields.otpfail
+plugins.xcellenceit.sms.fields.otpfheading
+plugins.xcellenceit.sms.fields.otprequired
+For further customization of the view page, you can edit the **RegistrationVerification.cshtml file**, which is located at:
+/Plugins/XcellenceIt.Sms/Views/NopSms in your website folder.
 
 ---
 
-## Verify OTP if Skip while verification:
+## Verify OTP if Skipped During Verification:
 
-If you want to verify OTP then you can click on verify OTP it will again redirect to RegistrationVerification page.
+If you skipped OTP verification earlier, you can click Verify OTP to be redirected back to the RegistrationVerification page and complete the verification process.
 
 ![CustomerEvent](../assets/img/SMS_VerifyOtpVerification.png)
 
