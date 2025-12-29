@@ -1,9 +1,10 @@
 # Installation & Licensing
 
-Download plug-in object code and put it at your plug-ins folder then follow nopCommerce standard plug-in installation procedure to install plug-in. Universal SMS plug-in is available under “SMS Providers” group on local plug-ins page. Once plug-in is installed go to your nopCommerce admin panel, and go to **Configuration → Plugins → Local plugins → Universal SMS plugin**.  
-It will ask you to enter your license key as shown in figure below, enter license key which you received on your registered email after purchasing this plug-in from our website.
+Download the plugin object code and place it in your plugins folder. Then follow the standard nopCommerce plugin installation procedure.
+The Universal SMS plugin is available under the SMS Providers group on the Local Plugins page.  Once the plugin is installed, go to the nopCommerce admin panel and navigate to **Configuration → Plugins → Local Plugins → Universal SMS plugin.**
+You will be prompted to enter your license key, as shown in the figure below. Enter the license key that you received at your registered email address after purchasing this plugin from our website.
 
-You may need to give read/write permission's to IIS user's on server where you deploy/host your website to install this plug-in.
+You may need to grant read/write permissions to the IIS users on the server where your website is deployed or hosted in order to install this plugin.
 
 ![Logo](../assets/img/SMS_License.png)
 

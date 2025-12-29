@@ -1,11 +1,11 @@
 # General Tab
 
-You cannot use plug-in functionality unless you enable it.
+You cannot use the plugin functionality unless it is enabled.
 
-- **Enable:** You can enable/disable plug-in from general tab of plug-in configure page.  
-- **Admin mobile number country:** Select country administrator mobile number country.  
-- **Admin mobile number:** Add administrator mobile number without country code, space or dash.  
-- **Individual messages:** You can enable/disable individual message tab.  
+- **Enable:** You can enable or disable the plugin from the General tab of the plugin configuration page.  
+- **Admin mobile number country:** Select the country for the administrator’s mobile number.  
+- **Admin mobile number:** Add the administrator’s mobile number without the country code, spaces, or dashes. 
+- **Individual messages:** You can enable or disable the individual message tab.  
 
 ![Genral Tab](../assets/img/SMS_GenralTab.png)
 
