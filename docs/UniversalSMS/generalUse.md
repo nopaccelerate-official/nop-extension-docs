@@ -4,17 +4,18 @@ Based on the configuration set by the admin, SMS notifications will be sent to V
 
 **Verify OTP:**
 
-Below is image of how customer mobile number registration screen looks like with nopCommerce default theme.
+The image below shows how the customer mobile number registration screen appears using the nopCommerce default theme.
 
 ![VerifyOtp](../assets/img/SMS_VerifyOtp.png)
 
 If you want to change the text displayed on the OTP Verification page, you can edit the following resources at **Configuration → Languages → View String Resources**:
-plugins.xcellenceit.sms.fields.onetimepassword  
-plugins.xcellenceit.sms.fields.onetimepassword.hint
-plugins.xcellenceit.sms.fields.otpfail
-plugins.xcellenceit.sms.fields.otpfheading
-plugins.xcellenceit.sms.fields.otprequired
-For further customization of the view page, you can edit the **RegistrationVerification.cshtml file**, which is located at:
+- plugins.xcellenceit.sms.fields.onetimepassword  
+- plugins.xcellenceit.sms.fields.onetimepassword.hint
+- plugins.xcellenceit.sms.fields.otpfail
+- plugins.xcellenceit.sms.fields.otpfheading
+- plugins.xcellenceit.sms.fields.otprequired
+
+- For further customization of the view page, you can edit the **RegistrationVerification.cshtml file**, which is located at:
 /Plugins/XcellenceIt.Sms/Views/NopSms in your website folder.
 
 ---

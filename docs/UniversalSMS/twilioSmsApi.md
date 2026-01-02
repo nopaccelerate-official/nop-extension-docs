@@ -26,7 +26,7 @@ Twilio SMS API:
 Example: If your phone number is +1 256-645-8461, enter it as **2566458461**.  
 - **Active:** Check Active to enable the configuration.
 
-Note (Twilio Trial Account): If you configured Twilio trial account then you need to perform below steps:
+**Note (Twilio Trial Account)**: 
 - If you are using a Twilio trial account, you must verify the recipient’s phone number in the Twilio Console using the following URL: “https://www.twilio.com/console/phone-numbers/verified”
 ![TwilioCall](../assets/img/SMS_Verifycall1.png)
 
