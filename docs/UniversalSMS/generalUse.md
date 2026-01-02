@@ -9,6 +9,7 @@ The image below shows how the customer mobile number registration screen appears
 ![VerifyOtp](../assets/img/SMS_VerifyOtp.png)
 
 If you want to change the text displayed on the OTP Verification page, you can edit the following resources at **Configuration → Languages → View String Resources**:
+
 - plugins.xcellenceit.sms.fields.onetimepassword  
 - plugins.xcellenceit.sms.fields.onetimepassword.hint
 - plugins.xcellenceit.sms.fields.otpfail
