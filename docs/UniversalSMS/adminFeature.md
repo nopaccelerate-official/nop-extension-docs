@@ -1,6 +1,6 @@
 # Admin Feature
 
-**Admin Feature:**
+**Admin Features:**
 
 Send message to Admin on following event and store owner can enable/disable events as per your requirement.
 

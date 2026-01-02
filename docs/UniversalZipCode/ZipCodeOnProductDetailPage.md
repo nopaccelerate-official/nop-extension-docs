@@ -1,9 +1,9 @@
-The Zip Code check section on the product detail page appears as shown in the image below.
+The Zip Code check section on the Product Details page appears as shown in the image below.
 
-After entering a Zip Code:
+After entering a zip code:
 
-- The system verifies whether **Delivery** and **COD** are available for that location.
-- The site will not prompt for the Zip Code again on future visits.
+- The system verifies whether **delivery** and **COD** are available for that location..
+- The site will not prompt for the zip code again.
 
 If you want to modify the design of the Zip Code control, edit the following file:
 

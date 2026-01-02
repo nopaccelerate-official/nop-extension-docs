@@ -3,8 +3,8 @@ When a new customer visits the store homepage, a pop-up will automatically appea
 After entering the Zip Code:
 
 - The site checks whether **Delivery** and **COD** are available for that Zip Code.
-- The information appears on the product detail page.
-- The customer will not be asked for their Zip Code again.
+- The information appears on the Product Details page.
+- The customer will not be asked for their zip code again.
 
 If you want to customize the design of the pop-up window, you can modify the view file located at:
 

@@ -2,7 +2,7 @@
 
 **Custom Message Tokens:**
 
-Our Universal SMS plug-in provides three custom message tokens for order events in our plug-in as described below:
+The Universal SMS plugin provides three custom message tokens for order-related events, as described below:
 
 1. %Order.NetAmount% – Returns order total amount.  
 2. %Order.ProductNames% – Returns name of product in an order. If there are multiple products in order then product names will be displayed separated by comma ','.  

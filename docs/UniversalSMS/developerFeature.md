@@ -1,7 +1,7 @@
 # Developer Feature
 
-**Developer Feature:**
+**Developer Features:**
 
-Universal SMS plug-in support for API to send SMS messages, so when the SMS plug-in is installed and activated one can send SMS by consuming this developer API either from nopCommerce project or from third party plugin.
+The Universal SMS plugin provides a developer API for sending SMS messages. Once the plugin is installed and activated, SMS can be sent by consuming this API from a nopCommerce project or a third-party plugin.
 
 [← Previous](adminFeature.md) | [Next →](customMessageTokens.md)

@@ -124,6 +124,7 @@ nav:
         - Overview: NopAcceleratePlus/version-history.md        
         - Version 49.0.0: NopAcceleratePlus/49.0.0.md
         - Version 0.13.2: NopAcceleratePlus/0.13.2.md
+        - Version 47.0.0: NopAcceleratePlus/47.0.0.md
         - Version 0.12.2: NopAcceleratePlus/0.12.2.md
         - Version 0.4.0: NopAcceleratePlus/0.4.0.md
         - Version 0.3.0.1115: NopAcceleratePlus/0.3.0.1115.md
@@ -216,12 +217,12 @@ nav:
           - Licensing: UniversalZipCode/Licence.md
           - Configuration:
             - General Tab Configuration: UniversalZipCode/GeneralTabConfiguration.md
-            - Zipcode List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
-            - Zipcode Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
+            - Zip Code List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
+            - Zip Code Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
           - Scenerios of Use:
-            - Auto ask ZipCode on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
-            - Ask ZipCode on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
-            - Ask ZipCode on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
+            - Auto-ask Zip Code on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
+            - Ask Zip Code on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
+            - Ask Zip Code on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
             - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
           - Help: UniversalZipCode/Help.md
           
@@ -289,21 +290,23 @@ nav:
           - Manage Product Ribbons Configurations:
             - Manage Product Ribbon: ProductRibbons/ManageProductRibbon.md
             - Add New Ribbon: ProductRibbons/AddNewRibbon.md
-            - Add product picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
+            - Add Product Picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
             - Add Products Tab: ProductRibbons/AddProductsTab.md
           - Scenerios of Use:
               - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
+          - Help: ProductRibbons/Help.md
 
   - nopAccelerate CDN:
     - Overview: nopAccelerateCDN/index.md
     - Features: nopAccelerateCDN/Feature.md
     - Version History:
-      - Overview: nopAccelerateCDN/History.md
+      - Version History: nopAccelerateCDN/History.md
       - Version 49.0.0: nopAccelerateCDN/49.0.0.md
     - Installation:
       - Licensing: nopAccelerateCDN/License.md  
       - Configuration:
           - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
       - Scenerios of Use:
-          - Display Front-end CDN page: nopAccelerateCDN/DisplyCdnFront.md
+          - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
+      - Help: nopAccelerateCDN/Help.md
   

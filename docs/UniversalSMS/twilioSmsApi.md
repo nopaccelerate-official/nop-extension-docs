@@ -7,30 +7,30 @@ Twilio SMS API:
 - Enter project name or you can skip the steps unless you reach the Dashboard.
 ![TwilioProject](../assets/img/SMS_TwilioProject.png)
 
-- Go to Twilio home page and you can find your Twilio credential under Project Info.
+- Go to the Twilio home page, where you can find your Twilio credentials under Project Info.
 ![TwilioCreditial](../assets/img/SMS_TwilioCredintials.png)
 
-- Go To Phone Number and and click on Active number.
-- Now this way you number will active and you can use further for SMS .
+- Go to Phone Numbers and click on the Active Number.
+- This will activate your number, allowing you to use it for SMS.
 ![TwilioPhoneNumber](../assets/img/SMS_TwilioPhone.png)
 
-- Now go to universal SMS plugin → configure page →  interface setting tab.
+- Now go to the Universal SMS Plugin → Configure page → Interface Settings tab.
 ![TwilioInterFace](../assets/img/sms_configuratation.jpg)
 
-- **Country:** Select country for sending SMS.  
-- **Provider Interface Type:** Select Twilio SMS API.  
-- **Twilio SID:** Enter Twilio SID that you can get from Twilio account.  
-- **Twilio Auth Token:** Enter Twilio auth token that you can get from Twilio account.  
-- **Twilio SMS number:** Enter Twilio phone number that you can get from Twilio account.  
-  **Note:** Enter phone number without country code, space, or dash.  
-  For example, if your phone number is “+1 256-645-8461”, you need to enter the number in this format: **“2566458461”**.  
-- **Active:** Check Active.
+- **Country:** Select the country for sending SMS.  
+- **Provider Interface Type:**  Select Twilio SMS API.  
+- **Twilio SID:** Enter the Twilio SID obtained from your Twilio account.  
+- **Twilio Auth Token:** Enter the Twilio Auth Token obtained from your Twilio account.
+- **Twilio SMS number:** Enter the Twilio phone number obtained from your Twilio account.  
+  **Note:** Enter the phone number without the country code, spaces, or dashes.
+Example: If your phone number is +1 256-645-8461, enter it as **2566458461**.  
+- **Active:** Check Active to enable the configuration.
 
-Note: If you configured Twilio trial account then you need to perform below steps:
-- If you are using Twilio trial account then you need to verify receivers phone number from Twilio from this url “https://www.twilio.com/console/phone-numbers/verified”
+**Note (Twilio Trial Account)**: 
+- If you are using a Twilio trial account, you must verify the recipient’s phone number in the Twilio Console using the following URL: “https://www.twilio.com/console/phone-numbers/verified”
 ![TwilioCall](../assets/img/SMS_Verifycall1.png)
 
-Click on ("+") button to verify the reviver's phone number.
+Click the ( + ) button to verify the receiver’s phone number.
 ![TwilioCallVerifiy](../assets/img/SMS_Verifycall.png)
 
 [← Previous](smsHttpApi.md) | [Next →](customerEventSettingsTab.md)
