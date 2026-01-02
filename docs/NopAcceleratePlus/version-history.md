@@ -7,7 +7,7 @@ You can directly go to a version history details by clicking on a version link f
 
 [Version 0.13.2](0.13.2.md)
 
-[Version 0.12.2](47.0.0.md)
+[Version 47.0.0](47.0.0.md)
 
 [Version 0.12.2](0.12.2.md)
 
