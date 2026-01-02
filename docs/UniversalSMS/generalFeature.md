@@ -2,14 +2,14 @@
 
 **General Feature:**
 
-1. Multi-country. Support configuring country specific SMS Gateway API.  
-2. Open API, using which you can configure any SMS Gateway using HTTP API, Email API. So you can use it with any SMS Gateway that offers HTTP or Email API.  
-3. Support Twilio Voice & SMS API.  
-4. Customer Mobile Number Verification using OTP (One Time Password) on Registration and on Mobile Number change event, with themable front-end view template.  
-5. Editable SMS Templates for supported events with tokens.  
-6. Send private / personalized individual SMS per customer and per order.  
-7. Supports for guest customer's and registered customer's.  
-8. Supports Multi-Store.  
-9. Professionally developed and supported.  
+1. Multi-country support for configuring country-specific SMS Gateway APIs.  
+2. Open API that allows you to configure any SMS gateway using HTTP or Email APIs. This enables integration with any SMS gateway that supports HTTP or Email APIs.  
+3. Supports Twilio Voice and SMS APIs.  
+4. Customer mobile number verification using OTP (One-Time Password) during registration and mobile number change events, with a themable front-end view template.  
+5. Editable SMS templates for supported events with dynamic tokens. 
+6. Send private and personalized SMS messages per customer and per order.  
+7. Supports both guest and registered customers.  
+8. Supports multi-store environments.  
+9. Professionally developed and fully supported.  
 
 [← Previous](index.md) | [Next →](customerFeature.md)

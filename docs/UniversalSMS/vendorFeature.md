@@ -1,8 +1,8 @@
 # Vendor Feature
 
-**Vendor Feature:**
+**Vendor Features:**
 
-Send message to Vendor on following event and store owner can enable/disable events as per your requirement.
+Send messages to vendors for the following events. Store owners can enable or disable events as per their requirements.
 
 1. Order Placed for Vendor’s Product  
 2. Order Delivered  

@@ -1,15 +1,15 @@
 ![UniversalSMS](../assets/img/UniversalSMS_logo.png)
 
-Universal SMS plug-in provides extensive ways of sending text notification messages to all over world. You can send message using Twilio SMS API, HTTP API or Email API.
+The Universal SMS plugin provides multiple ways to send text notification messages worldwide.You can send messages using the Twilio SMS API, HTTP API, or Email API.
 
-You can add country specific SMS API's or use single API for all countries for sending SMS.
+You can add country-specific SMS APIs or use a single API for sending SMS to all countries.
 
-Store owner can customize for message sending events like customer's events, Vendor event and Admin event.
+Store owners can customize message-sending events such as customer events, vendor events, and admin events.
 
-Universal SMS plug-in comes with developer API to send SMS messages, so when the SMS plug-in is installed and activated one can send SMS by consuming this developer API either from nopCommerce project or from third party plug-in.
+The Universal SMS plugin includes a developer API for sending SMS messages. Once the plugin is installed and activated, SMS can be sent by consuming this API from the nopCommerce project or a third-party plugin.
 
-Universal SMS Plug-in provide concatenate Function To Limit Characters in Message Tokens Values.
+The Universal SMS plugin provides a concatenate function to limit the number of characters in message token values.
 
-Plug-in is also supported in multi-store configuration. We provide you pre-defined message templates which you can edit as per your need.
+The plugin also supports multi-store configurations. Predefined message templates are provided and can be customized as per your requirements.
 
 [Next →](generalFeature.md)

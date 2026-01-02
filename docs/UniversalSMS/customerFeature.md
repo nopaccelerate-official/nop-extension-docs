@@ -1,8 +1,8 @@
 # Customer Feature
 
-**Customer Feature:**
+**Customer Features:**
 
-Send message to customer on following event and store owner can enable/disable events as per your requirement.
+Send messages to customers for the following events. Store owners can enable or disable events as per their requirements.
 
 1. Customer mobile number verification/Change of mobile number  
 2. Order placed  

@@ -1,8 +1,9 @@
 # Concatenate Function
 
-**Concatenate Function To Limit Characters in Message Tokens Values**
+**Concatenate Function to Limit Characters in Message Token Values**
 
-If you need to concatenate your message tokens like your store name is too big and you have added %Store.Name% in your message template So, %Store.Name% will be replaced with "your store name" and if you want to shorten name of the store then you can use the our plug-in function that shorten any message token characters to defined limit.
+If you need to limit the length of message tokens (for example, when the store name is too long), and you have added Store.Name to your message template, it will be replaced with the full store name.
+To shorten the store name, you can use the plugin’s concatenate function, which limits message token characters to a defined length.
 
 For example, {%Store.Name%[10..]} will now return “your store..” and {%Store.Name%[10]} will now return “your store” respectively.
 
