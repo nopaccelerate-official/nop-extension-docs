@@ -2,7 +2,7 @@
 
 **Admin Features:**
 
-Send message to Admin on following event and store owner can enable/disable events as per your requirement.
+Send messages to administrators for the following events. Store owners can enable or disable events as per their requirements.
 
 1. New customer registration  
 2. New order placed in store  

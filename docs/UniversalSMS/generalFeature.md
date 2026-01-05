@@ -1,6 +1,6 @@
-# General Feature
+# General Features
 
-**General Feature:**
+**General Features:**
 
 1. Multi-country support for configuring country-specific SMS Gateway APIs.  
 2. Open API that allows you to configure any SMS gateway using HTTP or Email APIs. This enables integration with any SMS gateway that supports HTTP or Email APIs.  
