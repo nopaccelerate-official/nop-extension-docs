@@ -1,5 +1,6 @@
 This page provides version history information for the plug-in. Click any version below to view its detailed release notes.
 
+[Version 49.0.1](49.0.1.md)
 
 [Version 49.0.0](49.0.0.md)
 
@@ -19,4 +20,4 @@ This page provides version history information for the plug-in. Click any versio
 
 [Version 1.0.0](1.0.0.md)
 
-[← Previous](Features.md) | [Next →](49.0.0.md)
+[← Previous](Features.md) | [Next →](49.0.1.md)
