@@ -179,7 +179,8 @@ nav:
       - Overview: AutoGuestRegister/index.md
       - Features: AutoGuestRegister/Features.md
       - Version History:
-        - Overview: AutoGuestRegister/History.md
+        - Overview: AutoGuestRegister/History.md        
+        - 49.0.1: AutoGuestRegister/49.0.1.md
         - 49.0.0: AutoGuestRegister/49.0.0.md
         - 1.4.0: AutoGuestRegister/1.4.0.md
         - 1.3.0: AutoGuestRegister/1.3.0.md
@@ -281,7 +282,7 @@ nav:
     - Features: ProductRibbons/Features.md
     - Version History:
       - Overview: ProductRibbons/History.md
-      - Version 49.0.0: ProductRibbons/49.0.0.md
+      - Version 49.0.1: ProductRibbons/49.0.1.md
       - Version 1.0.0: ProductRibbons/1.0.0.md
     - Installation:
       - Licensing: ProductRibbons/Licence.md  
