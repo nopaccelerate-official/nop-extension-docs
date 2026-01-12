@@ -1,8 +1,6 @@
-## Version history
-
 This page contains version history information about plug-in. You can directly go to a version history details by clicking on a version link from below versions.
 
-- [Version 49.0.0](49.0.0.md)
+- [Version 49.0.1](49.0.1.md)
 
 - [Version 7.0.1](7.0.1.md)
 
@@ -31,4 +29,4 @@ This page contains version history information about plug-in. You can directly g
 - [Version 1.0.0](1.0.0.md)
 
 
-[← Previous](concatenateFunction.md) | [Next →](49.0.0.md)
+[← Previous](concatenateFunction.md) | [Next →](49.0.1.md)
