@@ -1,11 +1,12 @@
 # General Tab Configuration
 
-You cannot use plug-in functionality unless you enable it.
+## How to Configure the Bundle Discount Plugin
 
-You can enable/disable plug-in from general tab of plug-in configure page.  
-Bundle title will be displayed when displaying bundles on product details page.  
-Widget Zone will define part of product details page where your bundles will be displayed.  
-You can choose to delete bundle related data from the database when you un-install the plug-in.
+- **Enable** the plugin to start using all available features.
+- You can **enable or disable** the plugin from the **General** tab of the plugin configuration page.
+- **Bundle Title** defines the heading displayed for bundle offers on the product details page.
+- **Widget Zone** controls where the bundle section appears on the product details page.
+- During uninstallation, you can choose whether to **remove all bundle-related data** from the database.
 
 ![Test](../assets/img/BundleDiscount_Configuration.png)
 

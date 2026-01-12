@@ -85,8 +85,9 @@ nav:
           - Version 1.0.0: bundleDiscount/1.0.0.md
 
 
-      - Installation:
-          - Licensing: bundleDiscount/Licence.md  
+      - Setup & Licensing:
+          - Installation Guide: bundleDiscount/InstallationGuide.md
+          - License & Activation: bundleDiscount/Licence.md  
           
       - Configuration:
             - General Tab Configuration: bundleDiscount/Configuration.md

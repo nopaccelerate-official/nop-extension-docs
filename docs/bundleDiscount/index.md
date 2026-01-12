@@ -1,4 +1,4 @@
-![Test](../assets/img/bundle_discount_logo.png)
+![OverView](../assets/img/1_Banner.png)
 
 ## Why You Should Buy
 

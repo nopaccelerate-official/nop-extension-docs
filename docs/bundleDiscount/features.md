@@ -1,4 +1,4 @@
-![Test](../assets/img/bundle_discount_logo.png)
+![Features](../assets/img/bundle_discount_Home.png)
 
 ## Key Features for a Seamless Shopping Experience
 
