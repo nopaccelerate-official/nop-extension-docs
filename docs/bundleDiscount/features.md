@@ -1,15 +1,21 @@
-- Enable/Disable Plug-in functionality.
-- Enable/Disable dropping bundle related tables when un-installing the -plug-in.
-- Multi-store supported.
-- Multi-currency supported.
-- Create and manage various bundles and set bundle title as well as bundle name.
-- Enable/Disable bundle and apply discount on bundle.
-- Add bundle products to cart from bundle.
-- Easy navigation to additional products.
-- Auto update/delete of bundle discount on updating/deleting bundled product    from the cart.
-- Discount amount can or cannot be in percentage of bundle subtotal amount.
-- Position your bundles' list on the basis of selected widget zone.
+![Test](../assets/img/bundle_discount_logo.png)
 
-**Nopcommerce Supported Version(s):** 3.70, 3.80, 3.90 and 4.00, 4.10, 4.20, 4.30, 4.70, 4.80, 4.90
+## Key Features for a Seamless Shopping Experience
+
+- **Strategic Bundling** – Create high-value product bundles with fixed or percentage discounts to encourage larger purchases.
+- **Smart Visibility** – Show bundle offers directly on product pages where buying decisions happen.
+- **Quick Add-to-Cart** – Let customers add the entire bundle in one click, reducing purchase friction.
+- **Instant Attribute Selection** – Enable fast selection of size, colour, or other options via a pop-up without page reloads.
+
+## General Features Built to Increase Sales
+
+- **Custom Branding** – Customise bundle titles to align with promotions and marketing campaigns.
+- **One-Click Upselling** – Increase cart value by adding complete bundles instantly.
+- **Smart Cart Sync** – Automatically manage discounts when bundle items change, preventing pricing issues.
+- **Strategic Widget Zones** – Place bundle offers in high-conversion areas to maximise visibility.
+- **Multi-Store & Multi-Currency Ready** – Sell globally with full multi-store and currency support.
+- **Wide Compatibility** – Works smoothly with nopCommerce 3.70 to 4.90 (latest).
+- **Scalable & Extensible** – Designed to grow with your business; custom enhancements available.
+
 
 [← Previous](index.md) | [Next →](version-history.md)
