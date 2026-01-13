@@ -1,24 +1,26 @@
-This section provides common usage scenarios for the **Bundled Discounts** plug-in.
+As shown in the image below, you can add a bundle to the cart by clicking **Add to Cart** for your selected bundle.
 
-# Display Bundle List
-As you see in below image you can add bundle to the cart by clicking on ADD TO CART bundle below your choice of bundle. You can add multiple or same bundles to the cart more than once.
+- You can add the same bundle to the cart multiple times.
+- You can also add multiple different bundles to the cart in a single order.
 
-![Test](../assets/img/BundleDiscount_bundleList.png)
+![Test](../assets/img/BundleDiscount_frontentproductdetail.png)
 
-When you click on ADD TO CART button and if any of your products linked with the bundle has any configurable property(attribute) to be selected, a pop-up window will appear asking you to select attributes of your choice.
+When you click the **Add to Cart** button, if any product in the bundle has configurable attributes, a pop-up window will appear allowing you to select the required options.
 
-[Attribute Pop-up](AttributePop-up.md)
+[Attribute Pop-up](AttributePopup.md)
 
-You can view the discounts applied on the cart as well as on order summary pages.
+You can view the applied bundle discounts on the **Cart** and **Order Summary** pages.
 
 [Bundle Discount Summary](BundleDiscountSummary.md)
 
-If you cannot view your bundles on product details page, please check if your bundle has products added to it, your bundle is in active state and also the widget for Bundled Discounts plug-in is enabled as shown below:
+If bundles are not visible on the product details page, please check:
 
-![Test](../assets/img/BundleDiscount_bundleSummery.png)
+- Products are added to the bundle.
+- The bundle is set to **Active**.
+- The **Bundled Discounts** widget is enabled, as shown in the image below.
 
-If you still cannot view your bundles list on product details page, you can get help from our team. Please refer 
+![Test](../assets/img/BundleDiscount_widget.png)
 
-[How to get help](Help.md)
+If you still cannot see the bundle list on the product details page, please contact our support team. Refer to [How to get help](Help.md) for assistance.
 
 [← Previous](Addbundledproducts.md) | [Next →](AttributePopup.md)

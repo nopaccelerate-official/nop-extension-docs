@@ -1,20 +1,20 @@
 # Add bundled products
 
-You can add one or more products to the bundle by checking the check-box(es) of the product(s) you want to add.
+You can add one or more products to the bundle by selecting the checkboxes for the products you want to include.
 
-![Test](../assets/img/BundleDiscount_Addbundledproducts.png)
+![Test](../assets/img/BundleDiscount_Addproduct.png)
 
-You can filter the products by the fields provided above the list.
+You can filter products using the fields provided above the product list.
 
-If you cannot view your product in the list, please check if the product agrees to any one of the following conditions:
+The product list shows items that are eligible to be added to a bundle. Products appear in the list when they meet the following criteria:
 
-- It is already added to the bundle.  
-- It is the base product of the bundle.  
-- It is a grouped product.  
-- It is a gift card.  
-- Customer Enters Price is enabled for the product.  
-- If you are logged in as vendor, the product you are searching for is not your product.
+- The product is not already part of the selected bundle.
+- The product is not the main (base) product of the bundle.
+- The product is a standard product type (not grouped).
+- The product is not configured as a gift card.
+- The product uses a fixed price set by the store.
+- For vendor users, the product belongs to your account.
 
-If none of the above conditions apply to your product, you can get help from our team. Please refer [How to get help.](Help.md)
+If none of the above conditions apply, please contact our support team. Refer to [How to get help.](Help.md) for assistance.
 
 [← Previous](BundledProducts.md) | [Next →](senerioOfUse.md)

@@ -1,12 +1,14 @@
 # Bundled Products
 
+To check the list of products, click **View** for the bundle in which you want to add or manage products.
+
+![Test](../assets/img/BundleDiscount_bundleview.png)
+
 You can view the list of products added to the bundle here.  
-Display Order defines the sequence in which the products will be displayed inside a bundle on product details page. You can edit this field as per your choice.Base product will be displayed first and the remaining products — as per the display order.
+**Display Order** controls the sequence in which products are shown within a bundle on the product details page. The base product is displayed first, followed by the offer products, in the order defined in the bundle configuration.
 
-![Test](../assets/img/BundleDiscount_bundledProduct.png)
+![Test](../assets/img/BundleDiscount_listOfproduct.png)
 
-You can add multiple product to the product list by clicking on the **Add product** button.
-
-[Add Product](Addbundledproducts.md)
+You can add multiple product to the bundle by clicking the [Add Product](Addbundledproducts.md) link.
 
 [← Previous](ManageBundles.md) | [Next →](Addbundledproducts.md)

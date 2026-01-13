@@ -2,7 +2,7 @@
 
 ## Why You Should Buy
 
-- Increase Average Order Value with smart **“Buy Together”** bundles
+- Increase Average Order Value with smart “Buy Together” bundles
 - Boost cross-sell & upsell by promoting related products automatically
 - Improve customer experience with one-click bundle add-to-cart
 - Reduce manual discount management with automated bundle pricing

@@ -5,6 +5,6 @@
 - Enter the license key received on your **registered email** after purchase.
 - Save the **Register license** to activate the plugin.
 
-![Licence](../assets/img/)
+![Licence](../assets/img/BundleDiscount_Licencing.png)
 
 [← Previous](InstallationGuide.md) | [Next →](Configuration.md)
