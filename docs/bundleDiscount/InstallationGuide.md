@@ -6,12 +6,12 @@
 
 ![Installation](../assets/img/BundleDiscount_Installation1.png)
 
-- Locate **Bundled Discounts Plugin** under the **Xcellence-IT** group.
-- Click **Install** to complete the setup.
+- **Step 3:** Locate **Bundled Discounts Plugin** under the **Xcellence-IT** group.
+- **Step 4:** Click **Install** to complete the setup.
 
 ![Installation](../assets/img/BundleDiscount_Installation2.png)
 
-- **Restart** the application to complete the setup and start using the plugin.
+- **Step 5:** **Restart** the application to complete the setup and start using the plugin.
 
 ![Installation](../assets/img/BundleDiscount_Installation3.png)
 
