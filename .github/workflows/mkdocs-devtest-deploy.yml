@@ -1,4 +1,4 @@
-name: Deploy MkDocs to Server
+name: Deploy MkDocs to Server 
 
 on:
   push:
