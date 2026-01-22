@@ -101,7 +101,7 @@ nav:
                   - Bundled Products: bundleDiscount/BundledProducts.md
                   - Add bundled products: bundleDiscount/Addbundledproducts.md
       
-      - Scenerios of Use: 
+      - Scenarios of Use: 
         - Display Bundle List: bundleDiscount/senerioOfUse.md
         - Attribute Pop-up: bundleDiscount/AttributePopup.md
         - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
