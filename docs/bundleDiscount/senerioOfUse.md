@@ -1,5 +1,7 @@
 As shown in the image below, you can add a bundle to the cart by clicking **Add to Cart** for your selected bundle.
 
+**Note:** Custom products are not supported by this plugin.
+
 - You can add the same bundle to the cart multiple times.
 - You can also add multiple different bundles to the cart in a single order.
 
