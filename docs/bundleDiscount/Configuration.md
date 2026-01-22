@@ -6,7 +6,7 @@
 - **Widget Zone** controls where the bundle section appears on the product details page.
 - During uninstallation, you can choose whether to **remove all bundle-related data** from the database.
 
-![Test](../assets/img/BundleDiscount_configuration.png)
+![Test](../assets/img/BundleDiscount_configuration.png){ .img-border }
 
 
 [← Previous](Licence.md) | [Next →](BundleConfiguration.md)
