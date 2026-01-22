@@ -2,7 +2,7 @@
 
 As shown in the image below, you can add multiple bundles for a single base product.
 
-![Test](../assets/img/BundleDiscount_BundleProductlist.png)
+![Test](../assets/img/BundleDiscount_BundleProductlist.png){ .img-border }
 
 ## Bundle Configuration Fields
 

@@ -1,4 +1,4 @@
-![OverView](../assets/img/1_Banner.png)
+![OverView](../assets/img/1_Banner.png){ .img-border }
 
 ## Why You Should Buy
 

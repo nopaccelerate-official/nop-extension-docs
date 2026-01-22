@@ -21,7 +21,7 @@ Click “Stop Record” button once you complete recording steps. It will ask yo
 Send us saved zip file via email.
 
 
-![help](../assets/img/help.png)
+![help](../assets/img/help.png){ .img-border }
 
 
 [← Previous](senerioOfUse.md) 

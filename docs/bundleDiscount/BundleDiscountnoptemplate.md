@@ -10,14 +10,14 @@ SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotal
 
 Go to first <tr> row section of table as shown in below image:
 
-![Test](../assets/img/BundleDiscount_Code1.png)
+![Test](../assets/img/BundleDiscount_Code1.png){ .img-border }
 
 Step:2
 Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 
 Go to <tr class="order-total"> </tr> section as shown in below image:
 
-![Test](../assets/img/BundleDiscount_Code2.png)
+![Test](../assets/img/BundleDiscount_Code2.png){ .img-border }
 
 Step:3
 

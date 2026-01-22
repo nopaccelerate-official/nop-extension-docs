@@ -4,15 +4,15 @@
 - **Step 1:** Go to **Admin Panel → Configuration → Plugins → Local Plugins**.
 - **Step 2:** Upload the **BundleDiscount** zip file using the **"Upload plugin or theme"** button.
 
-![Installation](../assets/img/BundleDiscount_Installation1.png)
+![Installation](../assets/img/BundleDiscount_Installation1.png){ .img-border }
 
 - **Step 3:** Locate **Bundled Discounts Plugin** under the **Xcellence-IT** group.
 - **Step 4:** Click **Install** to complete the setup.
 
-![Installation](../assets/img/BundleDiscount_Installation2.png)
+![Installation](../assets/img/BundleDiscount_Installation2.png){ .img-border }
 
 - **Step 5:** **Restart** the application to complete the setup and start using the plugin.
 
-![Installation](../assets/img/BundleDiscount_Installation3.png)
+![Installation](../assets/img/BundleDiscount_Installation3.png){ .img-border }
 
 [← Previous](1.0.0.md) | [Next →](Licence.md)

@@ -39,6 +39,9 @@ extra:
 extra_css:
   - styles/hide-tabs.css
 
+markdown_extensions:
+  - attr_list
+
 nav:
   - Home: index.md
   - Display Reward Plugin:

@@ -7,7 +7,7 @@
 
 Once the **Product Edit** page opens, you will see the **Manage Bundles** tab as shown below.
 
-![Test](../assets/img/BundleDiscount_ManageBundle.png)
+![Test](../assets/img/BundleDiscount_ManageBundle.png){ .img-border }
 
 When you click this tab, a page will appear where you can create, manage, and configure product bundles.
 

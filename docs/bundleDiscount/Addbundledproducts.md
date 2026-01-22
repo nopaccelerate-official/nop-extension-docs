@@ -2,7 +2,7 @@
 
 You can add one or more products to the bundle by selecting the checkboxes for the products you want to include.
 
-![Test](../assets/img/BundleDiscount_Addproduct.png)
+![Test](../assets/img/BundleDiscount_Addproduct.png){ .img-border }
 
 You can filter products using the fields provided above the product list.
 

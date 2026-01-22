@@ -1,4 +1,4 @@
-![Features](../assets/img/bundle_discount_Home.png)
+![Features](../assets/img/bundle_discount_Home.png){ .img-border }
 
 ## Key Features for a Seamless Shopping Experience
 
