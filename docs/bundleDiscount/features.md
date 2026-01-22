@@ -1,13 +1,13 @@
 ![Features](../assets/img/bundle_discount_Home.png){ .img-border }
 
-## Key Features for a Seamless Shopping Experience
+## Key Features
 
 - **Strategic Bundling** – Create high-value product bundles with fixed or percentage discounts to encourage larger purchases.
 - **Smart Visibility** – Show bundle offers directly on product pages where buying decisions happen.
 - **Quick Add-to-Cart** – Let customers add the entire bundle in one click, reducing purchase friction.
 - **Instant Attribute Selection** – Enable fast selection of size, colour, or other options via a pop-up without page reloads.
 
-## General Features Built to Increase Sales
+## General Features
 
 - **Custom Branding** – Customise bundle titles to align with promotions and marketing campaigns.
 - **One-Click Upselling** – Increase cart value by adding complete bundles instantly.
