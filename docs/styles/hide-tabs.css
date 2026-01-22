@@ -9,7 +9,7 @@
 }
 /*For image border */
 .img-border {
-  border: 5px solid #ccc;
-  padding: 4px;
+  border: 5px solid #080505;
+  /* padding: 4px; */
   border-radius: 4px;
 }
