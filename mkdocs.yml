@@ -173,11 +173,12 @@ nav:
           - Version 1.1.0: popupEngage/1.1.0.md          
           - Version 1.0.1: popupEngage/1.0.1.md
           - Version 1.0.0: popupEngage/1.0.0.md          
-      - Installation:
-          - Licensing: popupEngage/Licence.md
-          - Configuration: popupEngage/Configuration.md
-          - Scenerios of Use: popupEngage/senerioOfUse.md
-          - Help: popupEngage/Help.md
+      - Setup & Licensing:
+          - Installation Guide: popupEngage/InstallationGuide.md
+          - License & Activation: popupEngage/Licence.md  
+      - Configuration: popupEngage/Configuration.md
+      - Scenerios of Use: popupEngage/senerioOfUse.md
+      - Help: popupEngage/Help.md
 
   - Auto Guest Register :
       - Overview: AutoGuestRegister/index.md
