@@ -15,7 +15,7 @@ The product list shows items that are eligible to be added to a bundle. Products
 - The product uses a fixed price set by the store.
 - For vendor users, the product belongs to your account.
 
-**Note:** Custom products are not supported by this plugin.
+**Note: Custom products are not supported by this plugin.**
 
 If none of the above conditions apply, please contact our support team. Refer to [How to get help.](Help.md) for assistance.
 
