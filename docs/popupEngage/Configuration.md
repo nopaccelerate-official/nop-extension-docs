@@ -1,56 +1,58 @@
+# Configuration
 
-## 1. **Enable the Plugin**
-- Before using any feature, make sure the plugin is enabled.  
-- The popup functionalities will not work unless the plugin is turned on.
+This guide explains how to configure the **Popup Engage** plugin to get the best results for your store.
 
----
+## Multi-Store Configuration
 
-## 2. **Home Page Popup Settings**
-These settings control the popup that appears when a customer visits the homepage.
+- **Multi-store configuration for:**  
+  If you run multiple stores, select the store you want to configure from the dropdown list.
 
-- **Home Page Popup Enabled :** Enable this option to display a popup on the homepage.
-
-- **Topic :**  Select a topic from the dropdown.  
-- The selected topic’s content will appear inside the popup.
-
-- **Title :** Enter the title text you want to show on the popup.
-
-- **Cookie Duration Seconds:**  Define how long (in seconds) the popup should remain suppressed after it is shown.
-
-- **Examples:** 
- - `0` → shows every time  
- - `86,400` → once per day  
- - `2,592,000` → once per month  
-
-- **Behavior**
-- Displays the popup using the configured topic and title.
-- Works for both logged-in and guest users.
+  ![confgiure1](../assets/img/popup_configure.png)
 
 ---
 
-## 3. **Abandoned Cart Popup Settings**
-These settings control the popup shown when a user is about to leave the website with items in the cart (exit-intent popup).
 
-- **Abandoned Cart Popup Enabled :**  Enable this option to activate the exit-intent popup for abandoned carts.
+## Home Page Popup Settings
 
-- **Topic :** Choose a topic whose content will appear inside the popup.
-
-- **Title :** Enter a title for the abandoned cart popup.
-
-- **Suppression Seconds :** Set how long the popup should stay suppressed once it has appeared.  
-- This prevents it from showing repeatedly in a short time.
-
-- **Behavior**
-- Detects when a user is about to leave the store while having items in the cart.
-- **If the visitor is not logged in:** The popup shows the topic content along with an email subscription option.
-- **If the visitor is logged in:**   Only the topic content is displayed.
----
-
-## 4. **Saving Settings**
-After adjusting all configurations, click **Save** to apply your changes.
-
+These settings control the popup that appears when a customer visits your **Home page**.
 
 ![confgiure1](../assets/img/popup_configure1.png)
+
+- **Home Page Popup Enabled :** Enable this option to display the popup on the Home page.
+
+- **Topic :** Select a standard **nopCommerce Topic** from the dropdown. The selected topic content (text, images, or HTML) will be displayed inside the popup.
+
+- **Title :** Enter the heading text shown at the top of the popup. *(e.g., “Welcome!” or “Special Offer”).*
+
+- **Cookie Duration (Seconds):** Defines how long the popup remains hidden after a user sees it, helping avoid overexposure:
+    - **0** = Shows every time the page loads
+    - **86400** = Shows once per day (24 hours)
+    - **2592000** = Shows once per month (30 days)
+
+---
+
+## Abandoned Cart Popup Settings
+
+These settings control the **Exit-Intent (Abandoned Cart) popup**, which appears when a customer tries to leave the site with items still in their cart.
+
 ![confgiure2](../assets/img/popup_configure(2).png)
+
+- **Abandoned Cart Popup Enabled :** Enable this option to activate the exit-intent popup.
+
+- **Topic :** Select the topic whose content will be displayed inside the abandoned cart popup.
+
+- **Title :** Enter the heading text for the popup *(e.g., “Item left in your cart”).*
+
+- **Suppression Seconds :** Set how long the popup should stay hidden after it appears once. This prevents it from showing repeatedly within a short time.
+
+- **Smart Behavior**
+    - **Guest Users:** The popup includes an email subscription field to collect leads.  
+    - **Logged-in Users:** The email field is hidden, and only the offer or message is shown.
+
+----
+
+## Saving Your Changes
+
+- After making your changes, click **Save** to apply them immediately.
 
 [← Previous](Licence.md) | [Next →](senerioOfUse.md)

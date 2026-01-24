@@ -1,16 +1,11 @@
-# Installation & Licensing
+# Licensing
 
-- Download the plugin package and place it inside your **Plugins** folder.
-
-- Follow the standard nopCommerce plugin installation procedure. The **Pop-up Engage** plugin will appear under the **“Xcellence-IT”** group on the **Local Plugins** page.
-
-- After installing, go to: **nopAccelerate > Popup Engage > Configure**
-
-- The system will ask for your license key. Enter the license key you received on your registered email after purchasing the plugin from our website.
-
-- Make sure to give **read/write permissions** to the IIS user on the server where your website is hosted, so the plugin can be installed and work correctly.
-
+- After the site restarts, navigate to nopAccelerate → Popup Engage → Configure from the admin menu.
+- Open the configuration page; it will prompt you to enter the License Key.
+- Enter the unique License Key you received in your purchase confirmation email.
+- Click the Register License button. 
+- You are now ready to start using Popup Engage!
 
 ![Lincence](../assets/img/popup_lincence.png)
 
-[← Previous](1.0.0.md) | [Next →](Configuration.md)
+[← Previous](InstallationGuide.md) | [Next →](Configuration.md)

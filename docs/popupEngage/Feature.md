@@ -1,3 +1,5 @@
+![popupLogo](../assets/img/popup_features.png){ .img-border }
+
 ## Key Features
 
 - **Smart Exit-Intent :** Automatically detects when a customer with items in their cart is about to leave and triggers a *last-chance* offer to save the sale.

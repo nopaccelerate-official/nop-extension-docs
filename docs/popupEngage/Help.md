@@ -2,7 +2,7 @@
 
 If you face any issues, you can:
 
-- Email us at **support@nopaccelerate.com**
+- Email us at [**support@nopaccelerate.com**](http://mail.support.xcellence-it.com/Default.aspx)
 - Or use the support form:  
   <http://www.nopaccelerate.com/wiki/support>
 

@@ -21,3 +21,5 @@
 **Step 6** : After installation, click **“Restart application to apply changes”** at the top of the page.
 
 ![Installation 4](../assets/img/popup_Installation4.png){ .img-border }
+
+[← Previous](1.0.0.md) | [Next →](Licence.md)
