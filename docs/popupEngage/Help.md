@@ -5,8 +5,7 @@ If you face any issues, you can:
 - Email us at [**support@nopaccelerate.com**](http://mail.support.xcellence-it.com/Default.aspx)
 - Or use the support form:  
   <http://www.nopaccelerate.com/wiki/support>
-
----
+  
 
 You can also send us the exact steps to reproduce the issue by recording it using the **Problem Steps Recorder (psr.exe)** on Windows:
 
