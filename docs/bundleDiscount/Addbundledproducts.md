@@ -1,10 +1,10 @@
 # Add bundled products
 
-You can add one or more products to the bundle by selecting the checkboxes for the products you want to include.
+You can add one or more products to the bundle by **selecting the checkboxes** for the products you want to include.
 
 ![Test](../assets/img/BundleDiscount_Addproduct.png){ .img-border }
 
-You can filter products using the fields provided above the product list.
+You can **filter products** using the fields provided above the product list.
 
 The product list shows items that are eligible to be added to a bundle. Products appear in the list when they meet the following criteria:
 
