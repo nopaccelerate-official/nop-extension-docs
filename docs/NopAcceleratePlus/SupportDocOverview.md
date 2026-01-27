@@ -6,6 +6,16 @@
 
 [nopAccelerate Plus Pro Installation](nopAcceleratePlusProInstallation.md)
 
+[Licensing & Activation](Licensing&Activation.md)
+
+[Core Confugaration](CoreConfiguration.md)
+
+[Search Configuration](Searchconfiguration.md)
+
+[Catalog Configuration](catalogconfiguration.md)
+
+[Scenario of use](ScenariosofUse.md)
+
 [JAVA Setup](JAVASetup.md)
 
 [SOLR Setup](SOLRSetup.md)
@@ -24,4 +34,4 @@
 
 - [Start SOLR on system startup](StartSolronSystemStartup.md)
 
-[← Previous](index.md) | [Next →](nopAcceleratePlusProInstallation.md)
+[← Previous](Features.md) | [Next →](nopAcceleratePlusProInstallation.md)

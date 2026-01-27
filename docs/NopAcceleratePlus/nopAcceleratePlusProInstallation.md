@@ -1,42 +1,27 @@
-# **nopAccelerate Plus Pro Installation**
+## Installation Guide
 
-Follow the steps below to install and configure **nopAccelerate Plus Pro** easily:
+Download the **nopAccelerate Plus Pro Plugin** from our store:
 
----
+[https://shop.nopaccelerate.com/nopaccelerate-plus](https://shop.nopaccelerate.com/nopaccelerate-plus)
 
-### 1. Install the Plugin
-Once you have downloaded the plugin successfully, install the plugin on your nopCommerce store.
+- **Step 1:** Go to **Admin Panel → Configuration → Plugins → Local Plugins**.  
 
----
+![pluspro_uploadplugin](../assets/img/pluspro_uploadplugin.png)
 
-### 2. Navigate to Configuration
-After successful installation, go to:
+- **Step 2:** Upload the **nopAccelerate Plus Pro** zip file using the **"Upload plugin or theme"** button.  
 
-**Administration → nopAccelerate Plus → nopAccelerate+ Search → Configure**
+![Uploadpluginzip](../assets/img/pluspro_Uploadpluginzip.png)
 
----
+- **Step 3:** Restart the application  
 
-### 3. Add License Keys
-Enter the license keys provided to you via email.
+- **Step 4:** Locate **nopAccelerate Plus Pro** under the **Xcellence-IT** group.  
 
-![Test](../assets/img/PlusProConfigurepage.png)
----
+- **Step 5:** Click **Install** to complete the setup.  
 
-### 4. Getting Started Page
-Once license keys are added successfully, you will be redirected to the **Getting Started** page of the plugin.
+**Note:** First install the Core plugin, then the Search plugin, and finally the Catalog plugin  
 
-Here you will find **two options** to set up nopAccelerate Plus Pro:
+![pluspro_afterupload](../assets/img/pluspro_afterupload.png)
 
-#### **Option 1: Quick Wizard Setup**
-If you click **“Yes”**, you will be redirected to the **Quick Wizard Setup**, which will guide you to set up **Solr** and **Java** on your machine.
+- **Step 6:** Restart the application after install plugins.
 
-#### **Option 2: Manual Setup**
-If you click **“No thanks, I will set up manually”**, you will be redirected to the nopAccelerate configuration page, where you must set up **Solr** and **Java** manually.
-
-You can get guidance at:
-**[Java Setup](JAVASetup.md)** and
-**[Solr Setup](SOLRSetup.md)**
-
-in this document to configure it manually.
-
-[← Previous](SupportDocOverview.md) | [Next →](JAVASetup.md)
+[← Previous](SupportDocOverview.md) | [Next →](Licensing&Activation.md)

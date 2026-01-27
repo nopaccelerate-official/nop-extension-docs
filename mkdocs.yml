@@ -111,9 +111,15 @@ nav:
 
   - NopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md
+      - Features: NopAcceleratePlus/Features.md
       - Support Document:
         - Overview: NopAcceleratePlus/SupportDocOverview.md
         - nopAccelerate Plus Pro Installation: NopAcceleratePlus/nopAcceleratePlusProInstallation.md
+        - Licensing & Activation: NopAcceleratePlus/Licensing&Activation.md
+        - Core Configuration: NopAcceleratePlus/CoreConfiguration.md
+        - Search Configuration: NopAcceleratePlus/Searchconfiguration.md
+        - Catalog Configuration: NopAcceleratePlus/catalogconfiguration.md
+        - Scenarios of Use: NopAcceleratePlus/ScenariosofUse.md
         - JAVA Setup: NopAcceleratePlus/JAVASetup.md
         - SOLR Setup:
           - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
