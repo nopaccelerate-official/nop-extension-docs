@@ -15,7 +15,7 @@
 - **Strategic Widget Zones** – Place bundle offers in high-conversion areas to maximise visibility.
 - **Multi-Store & Multi-Currency Ready** – Sell globally with full multi-store and currency support.
 - **Wide Compatibility** – Works smoothly with nopCommerce 3.70 to 4.90 (latest).
-- **Scalable & Extensible** – Designed to grow with your business; custom enhancements available.
+- **Scalable & Extensible** – Designed to grow with your business, custom enhancements available.
 
 
 [← Previous](index.md) | [Next →](version-history.md)
