@@ -4,17 +4,14 @@ This guide explains how to configure the **Popup Engage** plugin to get the best
 
 ## Multi-Store Configuration
 
-- **Multi-store configuration for:**  
-  If you run multiple stores, select the store you want to configure from the dropdown list.
+- If you run multiple stores, select the specific store you want to configure from the dropdown list at the top of the configuration page.
 
   ![confgiure1](../assets/img/popup_configure.png)
-
----
 
 
 ## Home Page Popup Settings
 
-These settings control the popup that appears when a customer visits your **Home page**.
+These settings control the popup that appears when a customer visits your site's **Home page**.
 
 ![confgiure1](../assets/img/popup_configure1.png)
 
@@ -29,7 +26,6 @@ These settings control the popup that appears when a customer visits your **Home
     - **86400** = Shows once per day (24 hours)
     - **2592000** = Shows once per month (30 days)
 
----
 
 ## Abandoned Cart Popup Settings
 
@@ -49,7 +45,6 @@ These settings control the **Exit-Intent (Abandoned Cart) popup**, which appears
     - **Guest Users:** The popup includes an email subscription field to collect leads.  
     - **Logged-in Users:** The email field is hidden, and only the offer or message is shown.
 
-----
 
 ## Saving Your Changes
 
