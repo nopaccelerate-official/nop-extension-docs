@@ -16,5 +16,6 @@ On executing the above command, the specified core will be deleted displaying th
 You can open the web interface of Solr to verify whether the core has been deleted or not.
 
 ![Test3](../assets/img/pluspro_newcore.png)
-
+ 
+ 
 [← Previous](CreateCore.md) | [Next →](ReloadCore.md)
