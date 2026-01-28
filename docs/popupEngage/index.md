@@ -2,7 +2,7 @@
 
 **"Stop Losing Customers and Start Recovering Revenue"**
 
-**Popup Engage** is a smart conversion tool that captures visitor attention exactly at the moment it matters most. It displays beautiful **Home Page announcements** to engage visitors the second they arrive, and intelligent **Exit-Intent popups** to instantly save abandoned carts before a customer leaves.
+**Popup Engage** is a smart conversion tool that captures visitor attention exactly at the moment it matters most. It displays beautiful **home page announcements** to engage visitors the second they arrive, and intelligent **exit-intent popup** to instantly save abandoned carts before a customer leaves.
 
 ### Why Choose Popup Engage plugin?
 

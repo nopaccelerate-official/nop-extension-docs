@@ -1,11 +1,9 @@
-### Need Help? Contact Support
+# Need Help? Contact Support
 
-If you face any issues, you can:
+If you encounter any issues while using Popup Engage, you can reach our support team using one of the following options:
 
-- Email us at [**support@nopaccelerate.com**](http://mail.support.xcellence-it.com/Default.aspx)
-- Or use the support form:  
-  <http://www.nopaccelerate.com/wiki/support>
-  
+- Email Support : [**support@nopaccelerate.com**](#)
+- Support Form :  <http://www.nopaccelerate.com/wiki/support>
 
 You can also send us the exact steps to reproduce the issue by recording it using the **Problem Steps Recorder (psr.exe)** on Windows:
 

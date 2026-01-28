@@ -1,7 +1,4 @@
 # Real-World Scenarios of Use
-Understanding how **Popup Engage** behaves for your customers.
-
-The plugin operates in two main scenarios to maximize engagement without disrupting the shopping experience.
 
 ## Home Page Popup 
 

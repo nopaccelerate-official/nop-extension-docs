@@ -1,7 +1,6 @@
 # Version History 
 
-Track the updates and evolution of **Popup Engage**.  
-Click on a version below to view its specific features, improvements, and bug fixes.
+Track the updates and evolution of **Popup Engage**. Click on a version below to view its specific features, improvements, and bug fixes.
 
 - [Version 49.1.0](49.1.0.md)  
 
