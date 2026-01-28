@@ -6,6 +6,7 @@
 - Click the **Register License** button. 
 - You are now ready to start using **Popup Engage**!
 
+
 ![Lincence](../assets/img/popup_lincence.png)
 
 [← Previous](InstallationGuide.md) | [Next →](Configuration.md)
