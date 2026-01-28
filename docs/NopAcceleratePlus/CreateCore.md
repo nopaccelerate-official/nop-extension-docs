@@ -1,6 +1,6 @@
 After installing and starting Solr, you can connect to the client (web interface) of Solr. You can verify the setup and installation simply by running solr on the port you specified. We have created core on 8983 port so we can access **localhost:8983/solr/#/** on any browser.
 
-![Test1](../assets/img/create_core.jpg)
+![Test1](../assets/img/pluspro_core.png)
 
 As highlighted in the above screen shot, initially there are no cores in Apache Solr. Now, we will see how to create a core in Solr.
 
@@ -16,7 +16,7 @@ To check the created core, you can look at **C:\Solr\server\solr\Solr_sample loc
 
 [**Important Note** : If your Solr is hosted on shared server then you need to [follow steps to make nopAccelerate Plus workable.](SetupCoreOnSharedServer.md)]
 
-![Test2](../assets/img/core_selector.jpg)
+![Test2](../assets/img/pluspro_newcore.png)
 
 [← Previous](StartSolr.md) | [Next →](DeleteCore.md)
 

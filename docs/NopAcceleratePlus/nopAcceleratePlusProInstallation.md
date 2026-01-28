@@ -10,9 +10,9 @@ Download the **nopAccelerate Plus Pro Plugin** from our store:
 
 - **Step 2:** Upload the **nopAccelerate Plus Pro** zip file using the **"Upload plugin or theme"** button.  
 
-![Uploadpluginzip](../assets/img/pluspro_Uploadpluginzip.png)
-
 - **Step 3:** Restart the application  
+
+![Uploadpluginzip](../assets/img/pluspro_Uploadpluginzip.png)
 
 - **Step 4:** Locate **nopAccelerate Plus Pro** under the **Xcellence-IT** group.  
 

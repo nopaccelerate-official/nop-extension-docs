@@ -8,7 +8,7 @@
 
 [Licensing & Activation](Licensing&Activation.md)
 
-[Core Confugaration](CoreConfiguration.md)
+[Core Configuration](CoreConfiguration.md)
 
 [Search Configuration](Searchconfiguration.md)
 
