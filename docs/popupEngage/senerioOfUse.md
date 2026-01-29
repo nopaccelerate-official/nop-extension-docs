@@ -10,7 +10,7 @@
 - **Dynamic Content :** Displays the specific **Topic** selected in settings (image, text, or video).
 - **Distraction-Free :** Unlike other popups, the Home Page popup does **not** show a newsletter subscription form. The focus stays 100% on your announcement.
 
-![cartpopup](../assets/img/popup_home.png)
+![cartpopup](../assets/img/popup_home.png){ .img-border }
 ---
 
 ## Abandoned Cart Popup 
@@ -28,13 +28,13 @@
     - **What they see :** Message + Newsletter Form  
     - **Why :** Since the user is unknown, the popup includes a subscription form to capture their email as a lead—even if they don’t complete the purchase.
 
-![cartpopup](../assets/img/popup_cart1.png)
+![cartpopup](../assets/img/popup_cart1.png){ .img-border }
 
 - **Logged-in Customers**  
     - **What they see :** Message only (No Form)  
     - **Why :** The email is already known, so the form is hidden. The popup focuses purely on the offer (e.g., *“Use code SAVE10”*) to help them complete checkout faster.
 
-![cartpopup](../assets/img/popup_cart.png)
+![cartpopup](../assets/img/popup_cart2.png){ .img-border }
 
 
 [← Previous](Configuration.md) | [Next →](Help.md)

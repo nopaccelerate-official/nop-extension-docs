@@ -6,14 +6,14 @@ This guide explains how to configure the **Popup Engage** plugin to get the best
 
 - If you run multiple stores, select the specific store you want to configure from the dropdown list at the top of the configuration page.
 
-  ![confgiure1](../assets/img/popup_configure.png)
+  ![confgiure1](../assets/img/popup_configure.png){ .img-border }
 
 
 ## Home Page Popup Settings
 
 These settings control the popup that appears when a customer visits your site's **Home page**.
 
-![confgiure1](../assets/img/popup_configure1.png)
+![confgiure1](../assets/img/popup_configuration1.png){ .img-border }
 
 - **Home Page Popup Enabled :** Enable this option to display the popup on the Home page.
 
@@ -31,7 +31,7 @@ These settings control the popup that appears when a customer visits your site's
 
 These settings control the **Exit-Intent (Abandoned Cart) popup**, which appears when a customer tries to leave the site with items still in their cart.
 
-![confgiure2](../assets/img/popup_configure(2).png)
+![confgiure2](../assets/img/popup_configuration2.png){ .img-border }
 
 - **Abandoned Cart Popup Enabled :** Enable this option to activate the exit-intent popup.
 

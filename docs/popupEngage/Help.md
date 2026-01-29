@@ -13,6 +13,6 @@ You can also send us the exact steps to reproduce the issue by recording it usin
 4. You will be prompted to save a **.zip** file.
 5. Email the saved **.zip** file to us along with a short description of the issue.
 
-![help](../assets/img/help.png)
+![help](../assets/img/help.png){ .img-border }
 
 [← Previous](senerioOfUse.md) 
