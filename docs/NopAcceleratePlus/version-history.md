@@ -5,6 +5,8 @@ You can directly go to a version history details by clicking on a version link f
 
 [Version 49.0.0](49.0.0.md)
 
+[Version 48.0.0](48.0.0.md)
+
 [Version 0.13.2](0.13.2.md)
 
 [Version 47.0.0](47.0.0.md)
