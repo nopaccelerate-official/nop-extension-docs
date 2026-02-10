@@ -17,3 +17,5 @@
 - [Universal Product Ribbon ](ProductRibbons/)
 
 - [nopAccelerate CDN](nopAccelerateCDN/)
+
+- [Universal OnePage Checkout ](OnePageCheckout/)

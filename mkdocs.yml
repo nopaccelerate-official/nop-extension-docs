@@ -324,3 +324,14 @@ nav:
           - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
       - Help: nopAccelerateCDN/Help.md
   
+  - Universal OnePage Checkout :
+      - Overview: OnePageCheckout/index.md
+      - Features: OnePageCheckout/Feature.md
+      - Version History:
+        - Overview: OnePageCheckout/History.md        
+        - 1.0.0: OnePageCheckout/1.0.0.md
+      - Installation:
+          - Licensing: OnePageCheckout/Licence.md  
+          - Configuration: OnePageCheckout/Configuration.md
+          - Scenerios of Use: OnePageCheckout/SenerioOfUse.md
+          - Help: OnePageCheckout/Help.md
