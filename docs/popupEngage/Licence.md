@@ -7,6 +7,6 @@
 - You are now ready to start using **Popup Engage**!
 
 
-![Lincence](../assets/img/popup_lincence.png)
+![Lincence](../assets/img/popup_lincence.png){ .img-border }
 
 [← Previous](InstallationGuide.md) | [Next →](Configuration.md)
