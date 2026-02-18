@@ -1,3 +1,5 @@
+![plus_pro_](../assets/img/plus_pro_Features.png)
+
 ### 1. Powerful Core & Easy Management
 
 - Everything you need to manage a high-performance search engine—without technical complexity  

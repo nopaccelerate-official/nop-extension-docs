@@ -1,6 +1,6 @@
 # nopAccelerate Plus Pro
 
-![Test](../assets/img/plusprologo.png)
+![Test](../assets/img/Plus pro_logo.png)
 
 nopAccelerate Plus Pro is the ultimate search and discovery solution for nopCommerce, designed to help businesses deliver highly relevant, scalable, and lightning-fast in-site search and product discovery experiences.
 
