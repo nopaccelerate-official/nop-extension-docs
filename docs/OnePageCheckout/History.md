@@ -1,6 +1,6 @@
 # Version History
 
-This page contains version history information about plug-in. You can directly go to a version history details by clicking on a version link from below versions.
+This page contains the version history information for the plugin. You can directly view version details by clicking a version link below.
 
 [Version 1.0.0](1.0.0.md)
 

@@ -6,7 +6,7 @@ From here, the admin or store owner can control whether the plugin is active and
 ### General Settings
 
 - **Enable/Disable Plugin :** This setting allows the administrator to enable or disable the One Page Checkout plugin.  
-    - **Note:** The plugin will not work unless it is enabled. After enable you nedd to restart your appllication 
+    - **Note:** After enabling, you need to restart your application. 
 
 - **Disable Shopping Cart :** This setting allows the administrator to enable or disable the Shopping Cart page.  
     - When enabled, customers are redirected directly to the One Page Checkout without viewing the separate shopping cart page.  

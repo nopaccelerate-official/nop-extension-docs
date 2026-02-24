@@ -1,7 +1,7 @@
-This section provides common usage scenarios for the **Universal Onepage Checkout** plugin.
+This section provides common usage Scenarios for the **Universal Onepage Checkout** plugin.
 
 ## Checkout Page
-For display OnePage Checkout, manage OnePage Checkout and it will be display like below image.
+To display One Page Checkout, configure the plugin settings. The checkout page will appear as shown below.
 
 ![Test](../assets/img/OnePageCheckout_senerioOfUse.png)
 
