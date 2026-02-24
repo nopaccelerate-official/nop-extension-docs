@@ -49,6 +49,7 @@ nav:
       - Features: displayReward/Feature.md
       - Version History: 
           - Overview: displayReward/History.md
+          - Version 49.1.0: displayReward/49.1.0.md
           - Version 49.0.0: displayReward/49.0.0.md
           - Version 1.3.0: displayReward/1.3.0.md         
           - Version 1.2.0: displayReward/1.2.0.md          
@@ -58,7 +59,12 @@ nav:
           
       - Installation:
           - Licensing: displayReward/Licence.md
-          - Configuration: displayReward/Configuration.md
+          - Configuration: 
+              - General Configuration: displayReward/Configuration.md
+              - Review Reward Configuration: displayReward/ReviewRewardConfiguration.md
+              - Shared reward Configuration: displayReward/ShareRewardConfiguration.md
+              - Fast purchase Configuration: displayReward/FastPurchaseConfiguration.md
+              - Specific date Configuration: displayReward/SpecificDateConfiguration.md
           - Scenerios of Use: displayReward/senerioOfUse.md
           - Help: displayReward/Help.md
 
