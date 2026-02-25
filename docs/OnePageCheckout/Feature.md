@@ -1,6 +1,6 @@
 - Allows the administrator to turn the Universal One Page Checkout plugin Enbale or Disable without uninstalling it.
 
-- Allows the administrator to merge the shopping cart and checkout into a single page. When enabled, the cart page is shown separately.
+- Allows the administrator to combined the shopping cart and checkout into a single page. When enabled, the cart page is shown separately.
 
 - Provides a smooth and simplified single-page cart and checkout experience.
 
