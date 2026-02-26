@@ -2,7 +2,7 @@
 
 Download the plugin package and place it in your **Plugins** folder, then follow the standard nopCommerce plugin installation procedure.
 
-The **Universal OnePage Checkout** plugin appears under the **Promotions** group on the *Local plugins* page.
+The **Universal One Page Checkout** plugin appears under the **Promotions** group on the *Local plugins* page.
 
 Once installed:
 
