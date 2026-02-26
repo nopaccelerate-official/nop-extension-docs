@@ -18,4 +18,4 @@
 
 - [nopAccelerate CDN](nopAccelerateCDN/)
 
-- [Universal OnePage Checkout ](OnePageCheckout/)
+- [Universal One Page Checkout ](OnePageCheckout/)
