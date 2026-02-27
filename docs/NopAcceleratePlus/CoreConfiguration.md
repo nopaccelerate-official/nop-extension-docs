@@ -24,7 +24,7 @@ After setting up Java and Solr, you need to start indexing. The supported Solr v
 - **Configure:** You can take a tour to see detailed information about all the features on the page.
 
 - **Perform Indexing Via DIH:** This option is applicable only when using Microsoft SQL Server (MSSQL). If your nopCommerce store is configured with MSSQL, it is recommended to enable this setting for better indexing performance.
-If you are using PostgreSQL or MySQL, this option should remain disabled, as DIH-based indexing is not supported for these database providers.
+If you are using PostgreSQL or MySQL, this option should remain disabled, as DIH-based indexing is not supported for these database providers.     
 
 - **General Settings:** The General settings allow you to configure Solr-based product search, pricing, attributes, and indexing behavior. These options help optimize performance, control caching, and manage how product data is fetched and displayed.
 
