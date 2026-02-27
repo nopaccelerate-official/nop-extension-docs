@@ -335,6 +335,7 @@ nav:
       - Features: OnePageCheckout/Feature.md
       - Version History:
         - Overview: OnePageCheckout/History.md        
+        - Version 6.0.1: OnePageCheckout/6.0.1.md
         - Version 1.0.0: OnePageCheckout/1.0.0.md
       - Installation:
           - Licensing: OnePageCheckout/Licence.md  
