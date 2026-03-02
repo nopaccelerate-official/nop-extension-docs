@@ -136,6 +136,8 @@ nav:
           - How to Reload Core: NopAcceleratePlus/ReloadCore.md
           - How to Delete Indexed data: NopAcceleratePlus/DeleteIndexData.md
           - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
+        - Solr hosted on Azure : NopAcceleratePlus/SolronAzure.md  
+        - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
       - Version History: 
         - Overview: NopAcceleratePlus/version-history.md        
         - Version 49.0.0: NopAcceleratePlus/49.0.0.md
@@ -158,7 +160,6 @@ nav:
       - Technical FAQ's: 
         - Technical FAQ's overview: NopAcceleratePlus/Technical FAQ's.md
         - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
-        - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
         - Connect To Solr : NopAcceleratePlus/ConnectToSolr.md
         - TimeOut Expiration : NopAcceleratePlus/TimeOutExpiration.md
         - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md

@@ -34,4 +34,8 @@
 
 - [Start SOLR on system startup](StartSolronSystemStartup.md)
 
+[Solr Hosted on Azure](SolronAzure.md)
+
+[Setup Solr on Shared Server](SetupCoreOnSharedServer.md)
+
 [← Previous](Features.md) | [Next →](nopAcceleratePlusProInstallation.md)

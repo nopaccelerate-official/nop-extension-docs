@@ -57,5 +57,5 @@ Restart the SQL service so changes take effect.
 ![SQl](../assets/img/restart.png)
 
 
-[← Previous](Technical%20FAQ's.md) | [Next →](SetupCoreOnSharedServer.md)
+[← Previous](Technical%20FAQ's.md) | [Next →](ConnectToSolr.md)
 
