@@ -138,6 +138,7 @@ nav:
           - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
         - Solr hosted on Azure : NopAcceleratePlus/SolronAzure.md  
         - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
+        - Setup Solr on Docker : NopAcceleratePlus/SetupSolronDocker.md
       - Version History: 
         - Overview: NopAcceleratePlus/version-history.md        
         - Version 49.0.0: NopAcceleratePlus/49.0.0.md

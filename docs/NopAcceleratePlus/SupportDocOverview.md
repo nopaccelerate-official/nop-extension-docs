@@ -38,4 +38,6 @@
 
 [Setup Solr on Shared Server](SetupCoreOnSharedServer.md)
 
+[Setup Solr on Docker](SetupSolronDocker.md)
+
 [← Previous](Features.md) | [Next →](nopAcceleratePlusProInstallation.md)

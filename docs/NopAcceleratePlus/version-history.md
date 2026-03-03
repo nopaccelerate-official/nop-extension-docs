@@ -37,4 +37,4 @@ You can directly go to a version history details by clicking on a version link f
 
 [Version 0.3.0](0.3.0.md)
 
-[← Previous](SetupCoreOnSharedServer.md) | [Next →](49.0.0.md)
+[← Previous](SetupSolronDocker.md) | [Next →](49.0.0.md)
