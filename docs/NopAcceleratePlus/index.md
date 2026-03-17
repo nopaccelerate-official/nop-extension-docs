@@ -29,6 +29,21 @@ As your catalog grows, your site shouldn't slow down.
 - **Zero Downtime Architecture:** Intelligent fallback ensures that if the search engine ever goes offline, your store automatically switches to default search so you never miss a sale.  
 - **SEO Optimized:** Generates clean, crawlable URLs for search results and filtered pages to boost your organic traffic.
 
----
+### 4. Actionable Insights & Smart Search Experience
+
+Enhance both user experience and business decisions with powerful analytics and guided search features. 
+
+- **Search Performance Tracking:** Monitor total searches, clicks, and conversions to measure effectiveness. 
+
+- **Zero Hit Analysis:** Identify searches with no results and uncover missed opportunities. 
+
+- **Top & Popular Searches:** Discover trending and frequently searched keywords to align with customer demand. 
+
+- **Recent Searches:** Help users quickly revisit their previous searches for a smoother experience. 
+
+- **Pre-filtered Search (Keyword Mapping):** Redirect users to specific pages or filtered results, perfect for promotions and curated experiences. 
+
+- **Conversion Insights:** Understand how search contributes to product engagement and sales. 
+
 
 [Next →](Features.md)

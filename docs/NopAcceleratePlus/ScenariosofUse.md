@@ -31,6 +31,20 @@ This is how your category pages (like "Books") look after enabling nopAccelerate
 
 ![pluspro_categorypage](../assets/img/pluspro_categorypage.png)
 
+## Enhanced Search Experience with Smart Suggestions
 
+This is how your search bar looks after enabling nopAccelerate Plus Pro. It transforms a basic search box into an intelligent discovery tool that guides users instantly.
+
+- **Recent Searches:** As users click on the search bar, they can see their previously searched terms. This allows them to quickly revisit past searches without typing again, improving convenience and speed.
+
+- **Popular Searches:** Displays trending and frequently searched keywords, helping users discover what others are looking for and guiding them toward relevant products.
+
+- **Quick Remove Option:** Users can easily remove individual recent searches or clear all history with a single click for better control.
+
+- **Pre-filtered Search (Keyword Mapping):** When users search for specific terms, they can be redirected to predefined pages such as categories, filtered results, or promotional landing pages—ensuring they land exactly where you want them.
+
+- **Faster Product Discovery:** By combining recent activity and trending searches, users find products quicker without needing to type full queries.
+
+![Recent search](../assets/img/pluspro_popularsearch.png)
 
 [← Previous](catalogconfiguration.md) | [Next →](JAVASetup.md)

@@ -140,7 +140,8 @@ nav:
         - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
         - Setup Solr on Docker : NopAcceleratePlus/SetupSolronDocker.md
       - Version History: 
-        - Overview: NopAcceleratePlus/version-history.md        
+        - Overview: NopAcceleratePlus/version-history.md  
+        - Version 49.1.0: NopAcceleratePlus/49.1.0.md      
         - Version 49.0.0: NopAcceleratePlus/49.0.0.md
         - Version 48.0.0: NopAcceleratePlus/48.0.0.md
         - Version 0.13.2: NopAcceleratePlus/0.13.2.md

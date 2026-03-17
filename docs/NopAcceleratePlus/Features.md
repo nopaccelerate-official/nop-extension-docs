@@ -35,6 +35,12 @@ Replace basic search with a smart engine that understands your customers.
 - **Precision Tuning:** Fine-tune the strictness of search results using "Minimum Should Match" settings.  
 - **High-Relevance Results:** Delivers highly relevant, marketing-focused search functionality.  
 - **Instant Auto-Complete:** Advanced, highly relevant autocomplete suggests products instantly as users type.
+- **Pre-filtered Search (Keyword Mapping):** Redirects users to specific pages, categories, or filtered results based on their search terms—ideal for promotions and curated experiences.
+- **Recent Searches:** Displays users’ previous searches, allowing them to quickly revisit and continue their journey.
+- **Popular Searches:** Highlights trending and frequently searched keywords to guide users toward in-demand products.
+- **Search Analytics Reports:** Provides detailed insights into search behavior, including total searches, clicks, conversions, and performance trends.
+- **Zero Hit Report:** Identifies search queries that return no results, helping you optimize product data and reduce missed opportunities.
+- **Top Search Queries Report:** Shows the most frequently searched keywords to help you understand customer demand and improve your catalog.
 
 ---
 
