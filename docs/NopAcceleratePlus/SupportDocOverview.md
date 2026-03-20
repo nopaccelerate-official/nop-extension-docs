@@ -6,6 +6,16 @@
 
 [nopAccelerate Plus Pro Installation](nopAcceleratePlusProInstallation.md)
 
+[Licensing & Activation](Licensing&Activation.md)
+
+[Core Configuration](CoreConfiguration.md)
+
+[Search Configuration](Searchconfiguration.md)
+
+[Catalog Configuration](catalogconfiguration.md)
+
+[Scenario of use](ScenariosofUse.md)
+
 [JAVA Setup](JAVASetup.md)
 
 [SOLR Setup](SOLRSetup.md)
@@ -24,4 +34,10 @@
 
 - [Start SOLR on system startup](StartSolronSystemStartup.md)
 
-[← Previous](index.md) | [Next →](nopAcceleratePlusProInstallation.md)
+[Solr Hosted on Azure](SolronAzure.md)
+
+[Setup Solr on Shared Server](SetupCoreOnSharedServer.md)
+
+[Setup Solr on Docker](SetupSolronDocker.md)
+
+[← Previous](Features.md) | [Next →](nopAcceleratePlusProInstallation.md)

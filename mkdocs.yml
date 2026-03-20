@@ -39,6 +39,9 @@ extra:
 extra_css:
   - styles/hide-tabs.css
 
+markdown_extensions:
+  - attr_list
+
 nav:
   - Home: index.md
   - Display Reward Plugin:
@@ -46,6 +49,7 @@ nav:
       - Features: displayReward/Feature.md
       - Version History: 
           - Overview: displayReward/History.md
+          - Version 49.1.0: displayReward/49.1.0.md
           - Version 49.0.0: displayReward/49.0.0.md
           - Version 1.3.0: displayReward/1.3.0.md         
           - Version 1.2.0: displayReward/1.2.0.md          
@@ -55,7 +59,12 @@ nav:
           
       - Installation:
           - Licensing: displayReward/Licence.md
-          - Configuration: displayReward/Configuration.md
+          - Configuration: 
+              - General Configuration: displayReward/Configuration.md
+              - Review Reward Configuration: displayReward/ReviewRewardConfiguration.md
+              - Shared reward Configuration: displayReward/ShareRewardConfiguration.md
+              - Fast purchase Configuration: displayReward/FastPurchaseConfiguration.md
+              - Specific date Configuration: displayReward/SpecificDateConfiguration.md
           - Scenerios of Use: displayReward/senerioOfUse.md
           - Help: displayReward/Help.md
 
@@ -85,8 +94,9 @@ nav:
           - Version 1.0.0: bundleDiscount/1.0.0.md
 
 
-      - Installation:
-          - Licensing: bundleDiscount/Licence.md  
+      - Setup & Licensing:
+          - Installation Guide: bundleDiscount/InstallationGuide.md
+          - License & Activation: bundleDiscount/Licence.md  
           
       - Configuration:
             - General Tab Configuration: bundleDiscount/Configuration.md
@@ -97,7 +107,7 @@ nav:
                   - Bundled Products: bundleDiscount/BundledProducts.md
                   - Add bundled products: bundleDiscount/Addbundledproducts.md
       
-      - Scenerios of Use: 
+      - Scenarios of Use: 
         - Display Bundle List: bundleDiscount/senerioOfUse.md
         - Attribute Pop-up: bundleDiscount/AttributePopup.md
         - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
@@ -107,9 +117,15 @@ nav:
 
   - NopAccelerate Plus:
       - Overview: NopAcceleratePlus/index.md
+      - Features: NopAcceleratePlus/Features.md
       - Support Document:
         - Overview: NopAcceleratePlus/SupportDocOverview.md
         - nopAccelerate Plus Pro Installation: NopAcceleratePlus/nopAcceleratePlusProInstallation.md
+        - Licensing & Activation: NopAcceleratePlus/Licensing&Activation.md
+        - Core Configuration: NopAcceleratePlus/CoreConfiguration.md
+        - Search Configuration: NopAcceleratePlus/Searchconfiguration.md
+        - Catalog Configuration: NopAcceleratePlus/catalogconfiguration.md
+        - Scenarios of Use: NopAcceleratePlus/ScenariosofUse.md
         - JAVA Setup: NopAcceleratePlus/JAVASetup.md
         - SOLR Setup:
           - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
@@ -120,9 +136,14 @@ nav:
           - How to Reload Core: NopAcceleratePlus/ReloadCore.md
           - How to Delete Indexed data: NopAcceleratePlus/DeleteIndexData.md
           - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
+        - Solr hosted on Azure : NopAcceleratePlus/SolronAzure.md  
+        - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
+        - Setup Solr on Docker : NopAcceleratePlus/SetupSolronDocker.md
       - Version History: 
-        - Overview: NopAcceleratePlus/version-history.md        
+        - Overview: NopAcceleratePlus/version-history.md  
+        - Version 49.1.0: NopAcceleratePlus/49.1.0.md      
         - Version 49.0.0: NopAcceleratePlus/49.0.0.md
+        - Version 48.0.0: NopAcceleratePlus/48.0.0.md
         - Version 0.13.2: NopAcceleratePlus/0.13.2.md
         - Version 47.0.0: NopAcceleratePlus/47.0.0.md
         - Version 0.12.2: NopAcceleratePlus/0.12.2.md
@@ -141,7 +162,6 @@ nav:
       - Technical FAQ's: 
         - Technical FAQ's overview: NopAcceleratePlus/Technical FAQ's.md
         - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
-        - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
         - Connect To Solr : NopAcceleratePlus/ConnectToSolr.md
         - TimeOut Expiration : NopAcceleratePlus/TimeOutExpiration.md
         - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md
@@ -169,11 +189,12 @@ nav:
           - Version 1.1.0: popupEngage/1.1.0.md          
           - Version 1.0.1: popupEngage/1.0.1.md
           - Version 1.0.0: popupEngage/1.0.0.md          
-      - Installation:
-          - Licensing: popupEngage/Licence.md
-          - Configuration: popupEngage/Configuration.md
-          - Scenerios of Use: popupEngage/senerioOfUse.md
-          - Help: popupEngage/Help.md
+      - Setup & Licensing:
+          - Installation Guide: popupEngage/InstallationGuide.md
+          - License & Activation: popupEngage/Licence.md  
+      - Configuration: popupEngage/Configuration.md
+      - Scenerios of Use: popupEngage/senerioOfUse.md
+      - Help: popupEngage/Help.md
 
   - Auto Guest Register :
       - Overview: AutoGuestRegister/index.md
@@ -312,3 +333,15 @@ nav:
           - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
       - Help: nopAccelerateCDN/Help.md
   
+  - Universal One Page Checkout :
+      - Overview: OnePageCheckout/index.md
+      - Features: OnePageCheckout/Feature.md
+      - Version History:
+        - Overview: OnePageCheckout/History.md        
+        - Version 6.0.1: OnePageCheckout/6.0.1.md
+        - Version 1.0.0: OnePageCheckout/1.0.0.md
+      - Installation:
+          - Licensing: OnePageCheckout/Licence.md  
+          - Configuration: OnePageCheckout/Configuration.md
+          - Scenarios of Use: OnePageCheckout/SenerioOfUse.md
+          - Help: OnePageCheckout/Help.md

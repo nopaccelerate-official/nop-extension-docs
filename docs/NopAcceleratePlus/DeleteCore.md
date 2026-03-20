@@ -2,7 +2,7 @@ You can delete core using the **delete** command of Apache Solr.
 
 Let’s suppose we have a core named **my_core** in Solr, as shown below :
 
-![Test1](../assets/img/deletingcore.jpg)
+![Test1](../assets/img/pluspro_deletecore.png)
 
 
 You can delete this core using the **delete** command by passing the name of the core to this command as follows :
@@ -15,6 +15,8 @@ On executing the above command, the specified core will be deleted displaying th
 
 You can open the web interface of Solr to verify whether the core has been deleted or not.
 
-![Test3](../assets/img/Check_deleted.jpg)
+![Test3](../assets/img/pluspro_newcore.png)
+ 
+
 
 [← Previous](CreateCore.md) | [Next →](ReloadCore.md)

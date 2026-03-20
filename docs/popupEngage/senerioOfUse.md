@@ -1,34 +1,40 @@
-**Popup Engage** is used to engage users on the store at key moments.  
-The plugin currently supports **two scenarios**:
+# Real-World Scenarios of Use
 
+## Home Page Popup 
+
+**Goal:** Engage visitors the moment they arrive. This popup triggers automatically when a customer lands on your **Home Page**. It’s ideal for announcements, welcome discounts, or flash sale alerts.
+
+**Key Behavior:**
+
+- **Instant Visibility :** Appears immediately to grab attention.
+- **Dynamic Content :** Displays the specific **Topic** selected in settings (image, text, or video).
+- **Distraction-Free :** Unlike other popups, the Home Page popup does **not** show a newsletter subscription form. The focus stays 100% on your announcement.
+
+![cartpopup](../assets/img/popup_home.png){ .img-border }
 ---
 
-## 1. **Home Page Popup**
+## Abandoned Cart Popup 
 
-This popup appears when a customer visits the **home page**.
+**Goal:** Recover lost revenue before a customer leaves. This intelligent popup triggers only when a customer has items in their cart and attempts to close the tab or browser window (**Exit-Intent**).
 
-### Key Features
-- Displays any **Topic content** selected on the Configure page.
-- Shows the configured **Title** and selected **Topic** content.
-- Behavior is the same for **guest and logged-in** customers.
-- **No newsletter subscription** is shown on the home page popup.
+**Key Behavior:**
 
-![homepopup](../assets/img/home_popup.png)
+- **Smart Trigger :** Detects mouse movement toward the browser’s close button.
+- **Context-Aware :** Identifies the user type and decides what content to show.
 
----
+**How It Adapts to Different Users**
 
-## 2. **Abandoned Cart (Exit-Intent) Popup**
+- **Guest Users**  
+    - **What they see :** Message + Newsletter Form  
+    - **Why :** Since the user is unknown, the popup includes a subscription form to capture their email as a lead—even if they don’t complete the purchase.
 
-This popup helps recover abandoned carts.  
-It is shown when a customer has items in the cart and attempts to **leave the site** (exit-intent).
+![cartpopup](../assets/img/popup_cart1.png){ .img-border }
 
-### Key Features
-- Displays any **Topic content** selected on the Configure page.
-- Shows the configured **Title** and selected **Topic** content.
-- Behavior for **logged-in** customers popup Only see the **Title** and **Topic** content. .
-- Behavior for **Guest Customers** customers popup Show the **Title** and **Topic** content with **Newsletter subscription option**
-![cartpopup](../assets/img/popup_cart.png)
-![cartpopup](../assets/img/popup_cart1.png)
+- **Logged-in Customers**  
+    - **What they see :** Message only (No Form)  
+    - **Why :** The email is already known, so the form is hidden. The popup focuses purely on the offer (e.g., *“Use code SAVE10”*) to help them complete checkout faster.
+
+![cartpopup](../assets/img/popup_cart2.png){ .img-border }
 
 
 [← Previous](Configuration.md) | [Next →](Help.md)

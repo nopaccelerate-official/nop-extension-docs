@@ -1,14 +1,11 @@
 # Bundle Discount Summary
 
-The discount applied on your order from the selected bundles will be shown on cart page, on Confirm Order page and on Order Details page(after placing the order) as below:
+The discount applied from the selected bundles is displayed on the Cart page, Confirm Order page, and Order Details page (after placing the order), as shown below.
 
-# Cart page
-![Cart page](../assets/img/BundleDiscount_Cart.png)
+## Shopping Cart page
+![Cart page](../assets/img/BundleDiscount_ShoppingCartpage.png){ .img-border }
 
-# Confirm Order page
-![Confirm Order page](../assets/img/BundleDiscount_OrderpageSummery.png)
-
-# Order Details Page after placing order 
-![Order Details](../assets/img/BundleDiscount_OrderDetailSummery.png)
+## Checkout page
+![Checkout page](../assets/img/BundldeDiscount_checkoutpage.png){ .img-border }
 
 [← Previous](AttributePopup.md) | [Next →](Help.md)

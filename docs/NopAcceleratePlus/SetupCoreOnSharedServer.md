@@ -71,4 +71,4 @@ Return to **Core Setup**:
 If indexing works successfully, your **remote Solr core setup is complete**.
 
 
-[← Previous](ErrorWhileIndexing.md) | [Next →](ConnectToSolr.md)
+[← Previous](SolronAzure.md) | [Next →](SetupSolronDocker.md)

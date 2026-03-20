@@ -1,18 +1,24 @@
-# Bundle Configuration
+# Accessing the Manage Bundles Tab
 
-When you open product edit page, you'll see **Manage Bundles** tab as shown below.
+- **Step 1:** Go to **Admin Panel**.
+- **Step 2:** Navigate to **Catalog → Products**.
+- **Step 3:** Select the product you want to add to the bundle.
+- **Step 4:** Click **Edit** to open the **Product Edit** page.
 
-![Test](../assets/img/BundleDiscount_bundle.png)
+Once the **Product Edit** page opens, you will see the **Manage Bundles** tab as shown below.
 
-When you click on the tab, you'll be displayed a page where you can manage your bundles.
+![Test](../assets/img/BundleDiscount_ManageBundle.png){ .img-border }
+
+When you click this tab, a page will appear where you can create, manage, and configure product bundles.
 
 [Manage Bundles](ManageBundles.md)
 
-If you cannot view **Manage bundles** tab on Product Edit page, please check if the product agrees to any one of the following conditions:
+The **Manage Bundles** tab will not be displayed if the product falls under any of the following conditions, as these scenarios are **not supported** by the plugin:
 
-- It is a group product.  
-- It is a gift card.  
-- Customer Enters Price is enabled for the product.
+- The product is a **Grouped Product**.
+- The product is a **Gift Card**.
+- **Customer Enters Price** is enabled for the product.
+
 
 If none of the above conditions apply to your product, you can get help from our team. Please refer 
 [How to get help.](Help.md)

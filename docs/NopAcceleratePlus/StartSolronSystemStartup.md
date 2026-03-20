@@ -11,4 +11,4 @@ If you want to use Solr as service in window server, please take guideline from 
 - Solr is not down when log-off from system.
 - System restart should automatically start Solr on same port that we have configured in service.
 
-[← Previous](DeleteIndexData.md) | [Next →](version-history.md)
+[← Previous](DeleteIndexData.md) | [Next →](SolronAzure.md)

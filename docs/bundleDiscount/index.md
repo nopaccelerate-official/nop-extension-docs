@@ -1,12 +1,11 @@
-![Test](../assets/img/bundle_discount_logo.png)
+![OverView](../assets/img/1_Banner.png){ .img-border }
 
-Bundled Discounts Plug-in for nopCommerce enables the store owner to enhance sales by offering discounts on purchase of additional products along with the one that customer wants to buy.
+## Why Choose the Bundle Discount Plugin? 
 
-The store owner can create bundle(s) on a product (base product) and set discount amount to be levied on purchase of that bundle.
-
-Store owner can add discount for bundles and link additional products to base product in each bundle. Customer will get some discount(as per configured discount) on purchase of that bundle.
-
-
-Customer can view bundle offers on product details page of the base product. Customer can directly add to cart bundle products from product detail page and if some bundle products have attributes then plug-in will show pop-up window for attribute configuration.
+- Increase Average Order Value with smart **“Buy Together”** bundles.
+- Boost **cross-sell** & **upsell** by promoting related products automatically.
+- Improve customer experience with **one-click bundle add-to-cart**.
+- Reduce **manual discount management** with automated bundle pricing.
+- Drive more conversions with **simple and flexible discount rules**.
 
 [Next →](features.md)

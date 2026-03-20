@@ -1,16 +1,26 @@
-- The plugin also supports a pop-up that automatically appears when a customer visits the home page.
+![popupLogo](../assets/img/popup_features.png){ .img-border }
 
-- When a customer adds products to the cart and tries to leave the website without completing checkout, a pop-up appears.  
-  If the user is a guest, it prompts them to subscribe to the newsletter.
+## Key Features
 
-- You can show any selected topic page content inside the pop-up window.
+- **Smart Exit-Intent :** Automatically detects when a customer with items in their cart is about to leave and triggers a *last-chance* offer to save the sale.
 
-- If the customer is not logged in or is unregistered, the plugin automatically asks them to subscribe via email.
+- **Instant Homepage Popups :** Captures attention immediately by displaying announcements or special deals the moment a visitor lands on your **Home page**.
 
-- The pop-up window layout, design files, and JavaScript for the Popup Engage plugin are fully customizable.
+- **Intelligent User Detection :** Automatically shows lead-capture forms to guest users while hiding them for registered users to ensure a smooth, frictionless experience.
 
-- Multi-store Supported
+- **Dynamic Content Integration :** Update popup visuals and text instantly using standard **nopCommerce Topic Pages**—no coding required.
 
-**Nopcommerce Supported Version(s):** 3.50,3.60,3.70,3.80, 3.90, 4.00, 4.10, 4.20, 4.30, 4.40, 4.50, 4.60 , 4.70, 4.80 and 4.90
+
+## General Features
+
+- **Advanced Frequency Control :** Manage how often popups appear (e.g., once per day or once per session) to engage users without annoying them.
+
+- **Guest Lead Capture :** Grow your email subscriber list by collecting contact details from guest visitors before they exit.
+
+- **Multi-Store Support :** Seamlessly manage popup strategies across multiple stores from a single plugin installation.
+
+- **User-Friendly Configuration :** Intuitive admin settings let you enable triggers and launch campaigns in minutes.
+
+- **Platform Compatibility:** Works smoothly with **nopCommerce versions 3.50 to 4.90**.
 
 [← Previous](index.md) | [Next →](History.md)

@@ -1,19 +1,19 @@
 # Manage Bundles
 
-As you see in below image you can add multiple bundles for a base product.
+As shown in the image below, you can add multiple bundles for a single base product.
 
-![Test](../assets/img/BundleDiscount_Managebundle.png)
+![Test](../assets/img/BundleDiscount_BundleProductlist.png){ .img-border }
 
-- **Name** defines bundle name.  
-- **Discount Amount** defines the amount of discount to be applied on a bundle.  
-- **Use Percentage** defines if the discount amount is in percentage or not.  
-- **Display Order** defines the sequence in which bundles will be displayed to the customer on product details page.  
-- **Store** defines the store for which the bundle is to be displayed.  
-- **Reference Products** provides a link to add products to a bundle and displays number of products currently added to the bundle.  
-- **Is Active** defines whether a bundle is in active state or not. If not in active state, bundle won’t be displayed to the customer on product details page.
+## Bundle Configuration Fields
 
-You can configure bundle products by clicking on the link that says Reference Products for a bundle.
+- **Name** – Defines the bundle name displayed to customers.
+- **Discount Amount** – Specifies the discount applied to the bundle.
+- **Use Percentage** – Determines whether the discount is applied as a percentage or a fixed amount.
+- **Display Order** – Controls the sequence in which bundles appear on the product details page.
+- **Store** – Selects the store where the bundle will be displayed.
+- **Reference Products** – Allows you to add products to the bundle and shows the number of products currently included.
+- **Is Active** – Use this option to activate or deactivate the bundle. Deactivated bundles are not displayed on the product details page.
 
-[Bundled Products list](BundledProducts.md)
+To configure bundle products, click the [Bundled Products list](BundledProducts.md) link for the respective bundle.
 
 [← Previous](BundleConfiguration.md) | [Next →](BundledProducts.md)

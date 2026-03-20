@@ -1,26 +1,22 @@
 ## Make Bundled discount compatible with RealOnePageCheckout plugin(nopTemplate).
 
-To make Bundled discount plugin compatible with RealOnePageCheckout Plugin of nopTemplate you need to follow few steps as below:
+-   To make Bundled discount plugin compatible with RealOnePageCheckout Plugin of nopTemplate you need to follow few steps as below:
 
-Step:1
-
-Add id="sub-total" In
-
-SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
+**Step 1 :**
+Add id="sub-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 
 Go to first <tr> row section of table as shown in below image:
 
-![Test](../assets/img/BundleDiscount_Code1.png)
+![Test](../assets/img/BundleDiscount_Code1.png){ .img-border }
 
-Step:2
+**Step 2 :**
 Add id="real-onepage-total" In SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml
 
 Go to <tr class="order-total"> </tr> section as shown in below image:
 
-![Test](../assets/img/BundleDiscount_Code2.png)
+![Test](../assets/img/BundleDiscount_Code2.png){ .img-border }
 
-Step:3
-
+**Step 3 :**
 Go to SevenSpikes.Nop.Plugins.RealOnePageCheckout\Views\RealOnePageCheckout\OrderTotals.cshtml and add following script in end of the page.
 
 ```html

@@ -16,7 +16,8 @@ We recommend downloading **Solr 8.11.0 version**.
 We are assuming you are installing this on **Windows**.
 
 **Note:**  
-The `solr-version.zip` or `solr-version.tgz` files (where *version* is the version number, e.g., `7.5.0`) contain:
+The `solr-version.zip` or `solr-version.tgz` files (where *version* is the version number, e.g., `7.5.0`) contain: 
+
 - Apache Solr  
 - HTML documentation  
 - Solr tutorial  
