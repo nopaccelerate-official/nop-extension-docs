@@ -19,3 +19,5 @@
 - [nopAccelerate CDN](nopAccelerateCDN/)
 
 - [Universal One Page Checkout ](OnePageCheckout/)
+
+- [nopCommerce AI Chatbot](NopBotAI/)
