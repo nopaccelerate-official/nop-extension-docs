@@ -322,17 +322,39 @@ nav:
   - nopAccelerate CDN:
     - Overview: nopAccelerateCDN/index.md
     - Features: nopAccelerateCDN/Feature.md
-    - Version History:
-      - Version History: nopAccelerateCDN/History.md
-      - Version 49.0.0: nopAccelerateCDN/49.0.0.md
+    - Version History:ersion 49.0.0: nopAccelerateCDN/49.0.0.md
     - Installation:
       - Licensing: nopAccelerateCDN/License.md  
       - Configuration:
-          - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
+          - Genral Tab C
+      - Version History: nopAccelerateCDN/History.md
+      - Vonfiguration: nopAccelerateCDN/Configuration.md
       - Scenerios of Use:
           - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
       - Help: nopAccelerateCDN/Help.md
   
+  - nopCommerce AI Chatbot:
+      - Overview: NopBotAI/index.md
+      - Features: NopBotAI/features.md
+      - Version History:
+          - Overview: NopBotAI/version-history.md
+          - Version 2.0.0: NopBotAI/2.0.0.md
+      - Setup & Licensing:
+          - Installation Guide: NopBotAI/installation.md
+          - License & Activation: NopBotAI/licence.md
+      - Configuration:
+          - General Settings: NopBotAI/general-settings.md
+          - OpenRouter Configuration: NopBotAI/openrouter-configuration.md
+          - Conversation History Settings: NopBotAI/conversation-history.md
+          - Knowledge Base Settings (RAG): NopBotAI/knowledge-base-settings.md
+          - Chat Appearance: NopBotAI/chat-appearance.md
+          - Saving Your Configuration: NopBotAI/saving-configuration.md
+      - Scenarios of Use: NopBotAI/scenarios-of-use.md
+      - Chat History: NopBotAI/chat-history.md
+      - Knowledge Base: NopBotAI/knowledge-base.md
+      - AI Processing Logs: NopBotAI/ai-processing-logs.md
+      - Help: NopBotAI/help.md
+
   - Universal One Page Checkout :
       - Overview: OnePageCheckout/index.md
       - Features: OnePageCheckout/Feature.md
