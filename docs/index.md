@@ -1,5 +1,7 @@
 # Available Plugins
 
+- [nopCommerce AI Chatbot](NopBotAI/)
+
 - [Display Reward Point](displayReward/)
 
 - [Bundle Discount ](bundleDiscount/)
@@ -20,4 +22,3 @@
 
 - [Universal One Page Checkout ](OnePageCheckout/)
 
-- [nopCommerce AI Chatbot](NopBotAI/)
