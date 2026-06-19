@@ -2,6 +2,8 @@
 
 - [nopCommerce AI Chatbot](NopBotAI/)
 
+- [nopCommerce Admin AI Chatbot](NopBotAdminAI/)
+
 - [Display Reward Point](displayReward/)
 
 - [Bundle Discount ](bundleDiscount/)
@@ -21,4 +23,3 @@
 - [nopAccelerate CDN](nopAccelerateCDN/)
 
 - [Universal One Page Checkout ](OnePageCheckout/)
-
