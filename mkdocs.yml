@@ -47,19 +47,19 @@ nav:
   - Display Reward Plugin:
       - Overview: displayReward/index.md
       - Features: displayReward/Feature.md
-      - Version History: 
+      - Version History:
           - Overview: displayReward/History.md
           - Version 49.1.0: displayReward/49.1.0.md
           - Version 49.0.0: displayReward/49.0.0.md
-          - Version 1.3.0: displayReward/1.3.0.md         
-          - Version 1.2.0: displayReward/1.2.0.md          
-          - Version 1.1.0: displayReward/1.1.0.md          
+          - Version 1.3.0: displayReward/1.3.0.md
+          - Version 1.2.0: displayReward/1.2.0.md
+          - Version 1.1.0: displayReward/1.1.0.md
           - Version 1.0.1: displayReward/1.0.1.md
           - Version 1.0.0: displayReward/1.0.0.md
-          
+
       - Installation:
           - Licensing: displayReward/Licence.md
-          - Configuration: 
+          - Configuration:
               - General Configuration: displayReward/Configuration.md
               - Review Reward Configuration: displayReward/ReviewRewardConfiguration.md
               - Shared reward Configuration: displayReward/ShareRewardConfiguration.md
@@ -71,7 +71,7 @@ nav:
   - Bundle Discount Plugin:
       - Overview: bundleDiscount/index.md
       - Features: bundleDiscount/features.md
-      - Version History: 
+      - Version History:
           - Overview: bundleDiscount/version-history.md
           - Version 49.0.0: bundleDiscount/49.0.0.md
           - version 7.1.1: bundleDiscount/7.1.1.md
@@ -93,25 +93,24 @@ nav:
           - Version 1.0.1: bundleDiscount/1.0.1.md
           - Version 1.0.0: bundleDiscount/1.0.0.md
 
-
       - Setup & Licensing:
           - Installation Guide: bundleDiscount/InstallationGuide.md
-          - License & Activation: bundleDiscount/Licence.md  
-          
+          - License & Activation: bundleDiscount/Licence.md
+
       - Configuration:
-            - General Tab Configuration: bundleDiscount/Configuration.md
-            - Bundle Product Configuration:
+          - General Tab Configuration: bundleDiscount/Configuration.md
+          - Bundle Product Configuration:
               - Bundle Configuration: bundleDiscount/BundleConfiguration.md
               - Manage Product Bundles:
                   - Manage Bundles: bundleDiscount/ManageBundles.md
                   - Bundled Products: bundleDiscount/BundledProducts.md
                   - Add bundled products: bundleDiscount/Addbundledproducts.md
-      
-      - Scenarios of Use: 
-        - Display Bundle List: bundleDiscount/senerioOfUse.md
-        - Attribute Pop-up: bundleDiscount/AttributePopup.md
-        - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
-    
+
+      - Scenarios of Use:
+          - Display Bundle List: bundleDiscount/senerioOfUse.md
+          - Attribute Pop-up: bundleDiscount/AttributePopup.md
+          - Bundle Discount Summary: bundleDiscount/BundleDiscountSummary.md
+
       - Help: bundleDiscount/Help.md
       - Bundled Discount RealOnePageCheckout Compatibility: bundleDiscount/BundleDiscountnoptemplate.md
 
@@ -119,100 +118,100 @@ nav:
       - Overview: NopAcceleratePlus/index.md
       - Features: NopAcceleratePlus/Features.md
       - Support Document:
-        - Overview: NopAcceleratePlus/SupportDocOverview.md
-        - nopAccelerate Plus Pro Installation: NopAcceleratePlus/nopAcceleratePlusProInstallation.md
-        - Licensing & Activation: NopAcceleratePlus/Licensing&Activation.md
-        - Core Configuration: NopAcceleratePlus/CoreConfiguration.md
-        - Search Configuration: NopAcceleratePlus/Searchconfiguration.md
-        - Catalog Configuration: NopAcceleratePlus/catalogconfiguration.md
-        - Scenarios of Use: NopAcceleratePlus/ScenariosofUse.md
-        - JAVA Setup: NopAcceleratePlus/JAVASetup.md
-        - SOLR Setup:
-          - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
-          - What is SOLR ?: NopAcceleratePlus/SOLR.md
-          - How to Start/Stop/Restart SOLR ?: NopAcceleratePlus/StartSolr.md
-          - Creating a new Core: NopAcceleratePlus/CreateCore.md
-          - How to Delete Core: NopAcceleratePlus/DeleteCore.md
-          - How to Reload Core: NopAcceleratePlus/ReloadCore.md
-          - How to Delete Indexed data: NopAcceleratePlus/DeleteIndexData.md
-          - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
-        - Solr hosted on Azure : NopAcceleratePlus/SolronAzure.md  
-        - Setup Core on Shared Server : NopAcceleratePlus/SetupCoreOnSharedServer.md
-        - Setup Solr on Docker : NopAcceleratePlus/SetupSolronDocker.md
-      - Version History: 
-        - Overview: NopAcceleratePlus/version-history.md  
-        - Version 49.1.0: NopAcceleratePlus/49.1.0.md      
-        - Version 49.0.0: NopAcceleratePlus/49.0.0.md
-        - Version 48.0.0: NopAcceleratePlus/48.0.0.md
-        - Version 0.13.2: NopAcceleratePlus/0.13.2.md
-        - Version 47.0.0: NopAcceleratePlus/47.0.0.md
-        - Version 0.12.2: NopAcceleratePlus/0.12.2.md
-        - Version 0.4.0: NopAcceleratePlus/0.4.0.md
-        - Version 0.3.0.1115: NopAcceleratePlus/0.3.0.1115.md
-        - Version 0.3.0.1056: NopAcceleratePlus/0.3.0.1056.md
-        - Version 0.3.0.925: NopAcceleratePlus/0.3.0.925.md
-        - Version 0.3.0.862: NopAcceleratePlus/0.3.0.862.md
-        - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
-        - Version 0.3.0.805: NopAcceleratePlus/0.3.0.805.md
-        - Version 0.3.0.744: NopAcceleratePlus/0.3.0.744.md
-        - Version 0.3.0.727: NopAcceleratePlus/0.3.0.727.md
-        - Version 0.3.0.696: NopAcceleratePlus/0.3.0.696.md
-        - Version 0.3.0.666: NopAcceleratePlus/0.3.0.666.md
-        - Version 0.3.0: NopAcceleratePlus/0.3.0.md
-      - Technical FAQ's: 
-        - Technical FAQ's overview: NopAcceleratePlus/Technical FAQ's.md
-        - Error while indexing : NopAcceleratePlus/ErrorWhileIndexing.md
-        - Connect To Solr : NopAcceleratePlus/ConnectToSolr.md
-        - TimeOut Expiration : NopAcceleratePlus/TimeOutExpiration.md
-        - Category and Manufacturer Navigation : NopAcceleratePlus/Category&ManufacutreNavigation.md
-        - Search with Synonyms : NopAcceleratePlus/SearchWithSynonyms.md
-        - Facet Filter with % : NopAcceleratePlus/FacetFilterWith%.md
-        - Solr as Service : NopAcceleratePlus/SolrService.md
-        - Licensing Issues : NopAcceleratePlus/LicensingIssues.md
-        - Responsive filter : NopAcceleratePlus/ResponsiveFilter.md
-        - Font Error : NopAcceleratePlus/FontError.md
-        - WebRequest: NopAcceleratePlus/WebRequest.md
-      - Help : NopAcceleratePlus/Help.md
-  
-  - Popup Engage :
+          - Overview: NopAcceleratePlus/SupportDocOverview.md
+          - nopAccelerate Plus Pro Installation: NopAcceleratePlus/nopAcceleratePlusProInstallation.md
+          - Licensing & Activation: NopAcceleratePlus/Licensing&Activation.md
+          - Core Configuration: NopAcceleratePlus/CoreConfiguration.md
+          - Search Configuration: NopAcceleratePlus/Searchconfiguration.md
+          - Catalog Configuration: NopAcceleratePlus/catalogconfiguration.md
+          - Scenarios of Use: NopAcceleratePlus/ScenariosofUse.md
+          - JAVA Setup: NopAcceleratePlus/JAVASetup.md
+          - SOLR Setup:
+              - Solr Setup Steps: NopAcceleratePlus/SOLRSetup.md
+              - What is SOLR ?: NopAcceleratePlus/SOLR.md
+              - How to Start/Stop/Restart SOLR ?: NopAcceleratePlus/StartSolr.md
+              - Creating a new Core: NopAcceleratePlus/CreateCore.md
+              - How to Delete Core: NopAcceleratePlus/DeleteCore.md
+              - How to Reload Core: NopAcceleratePlus/ReloadCore.md
+              - How to Delete Indexed data: NopAcceleratePlus/DeleteIndexData.md
+              - Start Solr on System Startup: NopAcceleratePlus/StartSolronSystemStartup.md
+          - Solr hosted on Azure: NopAcceleratePlus/SolronAzure.md
+          - Setup Core on Shared Server: NopAcceleratePlus/SetupCoreOnSharedServer.md
+          - Setup Solr on Docker: NopAcceleratePlus/SetupSolronDocker.md
+      - Version History:
+          - Overview: NopAcceleratePlus/version-history.md
+          - Version 49.1.0: NopAcceleratePlus/49.1.0.md
+          - Version 49.0.0: NopAcceleratePlus/49.0.0.md
+          - Version 48.0.0: NopAcceleratePlus/48.0.0.md
+          - Version 0.13.2: NopAcceleratePlus/0.13.2.md
+          - Version 47.0.0: NopAcceleratePlus/47.0.0.md
+          - Version 0.12.2: NopAcceleratePlus/0.12.2.md
+          - Version 0.4.0: NopAcceleratePlus/0.4.0.md
+          - Version 0.3.0.1115: NopAcceleratePlus/0.3.0.1115.md
+          - Version 0.3.0.1056: NopAcceleratePlus/0.3.0.1056.md
+          - Version 0.3.0.925: NopAcceleratePlus/0.3.0.925.md
+          - Version 0.3.0.862: NopAcceleratePlus/0.3.0.862.md
+          - Version 0.3.0.850: NopAcceleratePlus/0.3.0.850.md
+          - Version 0.3.0.805: NopAcceleratePlus/0.3.0.805.md
+          - Version 0.3.0.744: NopAcceleratePlus/0.3.0.744.md
+          - Version 0.3.0.727: NopAcceleratePlus/0.3.0.727.md
+          - Version 0.3.0.696: NopAcceleratePlus/0.3.0.696.md
+          - Version 0.3.0.666: NopAcceleratePlus/0.3.0.666.md
+          - Version 0.3.0: NopAcceleratePlus/0.3.0.md
+      - Technical FAQ's:
+          - Technical FAQ's overview: NopAcceleratePlus/Technical FAQ's.md
+          - Error while indexing: NopAcceleratePlus/ErrorWhileIndexing.md
+          - Connect To Solr: NopAcceleratePlus/ConnectToSolr.md
+          - TimeOut Expiration: NopAcceleratePlus/TimeOutExpiration.md
+          - Category and Manufacturer Navigation: NopAcceleratePlus/Category&ManufacutreNavigation.md
+          - Search with Synonyms: NopAcceleratePlus/SearchWithSynonyms.md
+          - Facet Filter with %: NopAcceleratePlus/FacetFilterWith%.md
+          - Solr as Service: NopAcceleratePlus/SolrService.md
+          - Licensing Issues: NopAcceleratePlus/LicensingIssues.md
+          - Responsive filter: NopAcceleratePlus/ResponsiveFilter.md
+          - Font Error: NopAcceleratePlus/FontError.md
+          - WebRequest: NopAcceleratePlus/WebRequest.md
+      - Help: NopAcceleratePlus/Help.md
+
+  - Popup Engage:
       - Overview: popupEngage/index.md
       - Features: popupEngage/Feature.md
-      - Version History: 
+      - Version History:
           - Overview: popupEngage/History.md
           - Version 49.1.0: popupEngage/49.1.0.md
           - Version 49.0.0: popupEngage/49.0.0.md
           - Version 48.0.0: popupEngage/48.0.0.md
-          - Version 7.1.0: popupEngage/7.1.0.md    
-          - Version 47.0.0: popupEngage/47.0.0.md     
-          - Version 6.1.0: popupEngage/6.1.0.md  
-          - Version 6.0.1: popupEngage/6.0.1.md         
-          - Version 1.1.0: popupEngage/1.1.0.md          
+          - Version 7.1.0: popupEngage/7.1.0.md
+          - Version 47.0.0: popupEngage/47.0.0.md
+          - Version 6.1.0: popupEngage/6.1.0.md
+          - Version 6.0.1: popupEngage/6.0.1.md
+          - Version 1.1.0: popupEngage/1.1.0.md
           - Version 1.0.1: popupEngage/1.0.1.md
-          - Version 1.0.0: popupEngage/1.0.0.md          
+          - Version 1.0.0: popupEngage/1.0.0.md
       - Setup & Licensing:
           - Installation Guide: popupEngage/InstallationGuide.md
-          - License & Activation: popupEngage/Licence.md  
+          - License & Activation: popupEngage/Licence.md
       - Configuration: popupEngage/Configuration.md
       - Scenerios of Use: popupEngage/senerioOfUse.md
       - Help: popupEngage/Help.md
 
-  - Auto Guest Register :
+  - Auto Guest Register:
       - Overview: AutoGuestRegister/index.md
       - Features: AutoGuestRegister/Features.md
       - Version History:
-        - Overview: AutoGuestRegister/History.md        
-        - 49.0.1: AutoGuestRegister/49.0.1.md
-        - 49.0.0: AutoGuestRegister/49.0.0.md
-        - 1.4.0: AutoGuestRegister/1.4.0.md
-        - 1.3.0: AutoGuestRegister/1.3.0.md
-        - 1.2.0: AutoGuestRegister/1.2.0.md
-        - 1.1.0: AutoGuestRegister/1.1.0.md
-        - 1.0.0: AutoGuestRegister/1.0.0.md
+          - Overview: AutoGuestRegister/History.md
+          - 49.0.1: AutoGuestRegister/49.0.1.md
+          - 49.0.0: AutoGuestRegister/49.0.0.md
+          - 1.4.0: AutoGuestRegister/1.4.0.md
+          - 1.3.0: AutoGuestRegister/1.3.0.md
+          - 1.2.0: AutoGuestRegister/1.2.0.md
+          - 1.1.0: AutoGuestRegister/1.1.0.md
+          - 1.0.0: AutoGuestRegister/1.0.0.md
       - Installation:
-          - Licensing: AutoGuestRegister/Licence.md  
+          - Licensing: AutoGuestRegister/Licence.md
           - Configuration:
-            - General Tab Configuration: AutoGuestRegister/GeneralTabConfiguration.md
-            - Email Configuration: AutoGuestRegister/EmailConfiguration.md
+              - General Tab Configuration: AutoGuestRegister/GeneralTabConfiguration.md
+              - Email Configuration: AutoGuestRegister/EmailConfiguration.md
           - Scenerios of Use:
               - Guest Customer Register: AutoGuestRegister/GuestCustomerRegister.md
               - Order Edit Page: AutoGuestRegister/OrderEditPage.md
@@ -220,125 +219,124 @@ nav:
               - Edit Message Template: AutoGuestRegister/EditMessageTemplate.md
           - How to get Help: AutoGuestRegister/Howtogethelp.md
 
-  - Universal ZipCode :
+  - Universal ZipCode:
       - Overview: UniversalZipCode/index.md
       - Features: UniversalZipCode/Features.md
-      - Version History: 
+      - Version History:
           - Overview: UniversalZipCode/History.md
           - Version 49.0.1: UniversalZipCode/49.0.1.md
           - Version 49.0.0: UniversalZipCode/49.0.0.md
-          - Version 6.0.1: UniversalZipCode/6.0.1.md         
-          - Version 1.4.0: UniversalZipCode/1.4.0.md 
-          - Version 1.3.0: UniversalZipCode/1.3.0.md         
-          - Version 1.2.0: UniversalZipCode/1.2.0.md         
-          - Version 1.1.1: UniversalZipCode/1.1.1.md          
-          - Version 1.1.0: UniversalZipCode/1.1.0.md          
+          - Version 6.0.1: UniversalZipCode/6.0.1.md
+          - Version 1.4.0: UniversalZipCode/1.4.0.md
+          - Version 1.3.0: UniversalZipCode/1.3.0.md
+          - Version 1.2.0: UniversalZipCode/1.2.0.md
+          - Version 1.1.1: UniversalZipCode/1.1.1.md
+          - Version 1.1.0: UniversalZipCode/1.1.0.md
           - Version 1.0.1: UniversalZipCode/1.0.1.md
           - Version 1.0.0: UniversalZipCode/1.0.0.md
-          
+
       - Installation:
           - Licensing: UniversalZipCode/Licence.md
           - Configuration:
-            - General Tab Configuration: UniversalZipCode/GeneralTabConfiguration.md
-            - Zip Code List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md          
-            - Zip Code Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
+              - General Tab Configuration: UniversalZipCode/GeneralTabConfiguration.md
+              - Zip Code List Tab Configuration: UniversalZipCode/ZipCodeListTabConfiguration.md
+              - Zip Code Logs Tab Configuration: UniversalZipCode/ZipCodeLogTabConfiguration.md
           - Scenerios of Use:
-            - Auto-ask Zip Code on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
-            - Ask Zip Code on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
-            - Ask Zip Code on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
-            - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
+              - Auto-ask Zip Code on Homepage: UniversalZipCode/ZipcodeOnHomePage.md
+              - Ask Zip Code on Product detail page: UniversalZipCode/ZipCodeOnProductDetailPage.md
+              - Ask Zip Code on Checkout page: UniversalZipCode/ZipCodeOnCheckoutPage.md
+              - Allow COD Payment method as per ZipCode: UniversalZipCode/ZipcodeForCODMethod.md
           - Help: UniversalZipCode/Help.md
-          
+
   - Universal SMS:
       - Overview: UniversalSMS/index.md
       - Features:
-        - General Feature: UniversalSMS/generalFeature.md
-        - Customer Feature: UniversalSMS/customerFeature.md
-        - Vendor Feature: UniversalSMS/vendorFeature.md
-        - Admin Feature: UniversalSMS/adminFeature.md
-        - Developer Feature: UniversalSMS/developerFeature.md
-        - Custom Message Tokens: UniversalSMS/customMessageTokens.md
-        - Concatenate Function: UniversalSMS/concatenateFunction.md
+          - General Feature: UniversalSMS/generalFeature.md
+          - Customer Feature: UniversalSMS/customerFeature.md
+          - Vendor Feature: UniversalSMS/vendorFeature.md
+          - Admin Feature: UniversalSMS/adminFeature.md
+          - Developer Feature: UniversalSMS/developerFeature.md
+          - Custom Message Tokens: UniversalSMS/customMessageTokens.md
+          - Concatenate Function: UniversalSMS/concatenateFunction.md
 
       - Version History:
-        - Overview: UniversalSMS/History.md
-        - Version 49.0.1: UniversalSMS/49.0.1.md
-        - Version 7.0.1: UniversalSMS/7.0.1.md
-        - Version 1.8.0: UniversalSMS/1.8.0.md
-        - Version 1.7.1: UniversalSMS/1.7.1.md
-        - Version 1.7.0: UniversalSMS/1.7.0.md
-        - Version 1.6.1: UniversalSMS/1.6.1.md
-        - Version 1.6.0: UniversalSMS/1.6.0.md
-        - Version 1.5.0: UniversalSMS/1.5.0.md
-        - Version 1.4.0: UniversalSMS/1.4.0.md
-        - Version 1.3.0: UniversalSMS/1.3.0.md
-        - Version 1.2.0: UniversalSMS/1.2.0.md
-        - Version 1.1.1: UniversalSMS/1.1.1.md
-        - Version 1.1.0: UniversalSMS/1.1.0.md
-        - Version 1.0.0: UniversalSMS/1.0.0.md
-
+          - Overview: UniversalSMS/History.md
+          - Version 49.0.1: UniversalSMS/49.0.1.md
+          - Version 7.0.1: UniversalSMS/7.0.1.md
+          - Version 1.8.0: UniversalSMS/1.8.0.md
+          - Version 1.7.1: UniversalSMS/1.7.1.md
+          - Version 1.7.0: UniversalSMS/1.7.0.md
+          - Version 1.6.1: UniversalSMS/1.6.1.md
+          - Version 1.6.0: UniversalSMS/1.6.0.md
+          - Version 1.5.0: UniversalSMS/1.5.0.md
+          - Version 1.4.0: UniversalSMS/1.4.0.md
+          - Version 1.3.0: UniversalSMS/1.3.0.md
+          - Version 1.2.0: UniversalSMS/1.2.0.md
+          - Version 1.1.1: UniversalSMS/1.1.1.md
+          - Version 1.1.0: UniversalSMS/1.1.0.md
+          - Version 1.0.0: UniversalSMS/1.0.0.md
 
       - Getting started:
-        - Installation & Licensing: UniversalSMS/installation.md
+          - Installation & Licensing: UniversalSMS/installation.md
 
       - Configuration:
-        - General Tab: UniversalSMS/generalTab.md
-        - Interface Setting Tab:
-          - Overview: UniversalSMS/interfaceSettingTab.md
-          - SMS Http API: UniversalSMS/smsHttpApi.md
-          - Twilio SMS API: UniversalSMS/twilioSmsApi.md
-        - Customer Event Settings Tab: UniversalSMS/customerEventSettingsTab.md
-        - Admin Event Setting Tab: UniversalSMS/adminEventSettingTab.md
-        - Vendor Event Setting Tab: UniversalSMS/vendorEventSettingTab.md
-        - Send Test Message Tab: UniversalSMS/sendTestMessageTab.md
+          - General Tab: UniversalSMS/generalTab.md
+          - Interface Setting Tab:
+              - Overview: UniversalSMS/interfaceSettingTab.md
+              - SMS Http API: UniversalSMS/smsHttpApi.md
+              - Twilio SMS API: UniversalSMS/twilioSmsApi.md
+          - Customer Event Settings Tab: UniversalSMS/customerEventSettingsTab.md
+          - Admin Event Setting Tab: UniversalSMS/adminEventSettingTab.md
+          - Vendor Event Setting Tab: UniversalSMS/vendorEventSettingTab.md
+          - Send Test Message Tab: UniversalSMS/sendTestMessageTab.md
 
       - Scenarios of use:
-        - General Use: UniversalSMS/generalUse.md
-        - Developer Use: UniversalSMS/developerUse.md
-        - Send Individual message: UniversalSMS/sendIndividualMessage.md
+          - General Use: UniversalSMS/generalUse.md
+          - Developer Use: UniversalSMS/developerUse.md
+          - Send Individual message: UniversalSMS/sendIndividualMessage.md
 
       - How to get help: UniversalSMS/help.md
-      
+
   - Product Ribbons:
-    - Overview: ProductRibbons/index.md
-    - Features: ProductRibbons/Features.md
-    - Version History:
-      - Overview: ProductRibbons/History.md
-      - Version 49.0.1: ProductRibbons/49.0.1.md
-      - Version 1.0.0: ProductRibbons/1.0.0.md
-    - Installation:
-      - Licensing: ProductRibbons/Licence.md  
-      - Configuration:
-          - General Settings: ProductRibbons/GeneralSettings.md
-          - Manage Product Ribbons Configurations:
-            - Manage Product Ribbon: ProductRibbons/ManageProductRibbon.md
-            - Add New Ribbon: ProductRibbons/AddNewRibbon.md
-            - Add Product Picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
-            - Add Products Tab: ProductRibbons/AddProductsTab.md
-          - Scenerios of Use:
-              - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
-          - Help: ProductRibbons/Help.md
+      - Overview: ProductRibbons/index.md
+      - Features: ProductRibbons/Features.md
+      - Version History:
+          - Overview: ProductRibbons/History.md
+          - Version 49.0.1: ProductRibbons/49.0.1.md
+          - Version 1.0.0: ProductRibbons/1.0.0.md
+      - Installation:
+          - Licensing: ProductRibbons/Licence.md
+          - Configuration:
+              - General Settings: ProductRibbons/GeneralSettings.md
+              - Manage Product Ribbons Configurations:
+                  - Manage Product Ribbon: ProductRibbons/ManageProductRibbon.md
+                  - Add New Ribbon: ProductRibbons/AddNewRibbon.md
+                  - Add Product Picture Ribbon Tab: ProductRibbons/AddproductpictureRibbonTab.md
+                  - Add Products Tab: ProductRibbons/AddProductsTab.md
+              - Scenerios of Use:
+                  - Display Product Ribbon on Front-end: ProductRibbons/DisplayProductRibbononFront.md
+              - Help: ProductRibbons/Help.md
 
   - nopAccelerate CDN:
-    - Overview: nopAccelerateCDN/index.md
-    - Features: nopAccelerateCDN/Feature.md
-    - Version History:ersion 49.0.0: nopAccelerateCDN/49.0.0.md
-    - Installation:
-      - Licensing: nopAccelerateCDN/License.md  
-      - Configuration:
-          - Genral Tab C
-      - Version History: nopAccelerateCDN/History.md
-      - Vonfiguration: nopAccelerateCDN/Configuration.md
-      - Scenerios of Use:
-          - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
-      - Help: nopAccelerateCDN/Help.md
-  
+      - Overview: nopAccelerateCDN/index.md
+      - Features: nopAccelerateCDN/Feature.md
+      - Version History:
+          - Version History: nopAccelerateCDN/History.md
+          - Version 49.0.0: nopAccelerateCDN/49.0.0.md
+      - Installation:
+          - Licensing: nopAccelerateCDN/License.md
+          - Configuration:
+              - Genral Tab Configuration: nopAccelerateCDN/Configuration.md
+          - Scenerios of Use:
+              - Display Front-End CDN page: nopAccelerateCDN/DisplyCdnFront.md
+          - Help: nopAccelerateCDN/Help.md
+
   - nopCommerce AI Chatbot:
       - Overview: NopBotAI/index.md
       - Features: NopBotAI/features.md
       - Version History:
           - Overview: NopBotAI/version-history.md
-          - Version 2.0.0: NopBotAI/2.0.0.md
+          - Version 2.2.0: NopBotAI/2.2.0.md
       - Setup & Licensing:
           - Installation Guide: NopBotAI/installation.md
           - License & Activation: NopBotAI/licence.md
@@ -355,15 +353,36 @@ nav:
       - AI Processing Logs: NopBotAI/ai-processing-logs.md
       - Help: NopBotAI/help.md
 
-  - Universal One Page Checkout :
+  - nopCommerce Admin AI Chatbot:
+      - Overview: NopBotAdminAI/index.md
+      - Features: NopBotAdminAI/features.md
+      - Version History:
+          - Overview: NopBotAdminAI/version-history.md
+          - Version 2.0.0.3: NopBotAdminAI/2.0.0.3.md
+      - Setup & Licensing:
+          - Installation Guide: NopBotAdminAI/installation.md
+          - License & Activation: NopBotAdminAI/licence.md
+      - Configuration:
+          - Settings: NopBotAdminAI/settings.md
+          - Registered Tools: NopBotAdminAI/registered-tools.md
+          - Admin Knowledge Base: NopBotAdminAI/knowledge-base.md
+          - Telegram Integration: NopBotAdminAI/telegram-integration.md
+          - Telegram Sessions: NopBotAdminAI/telegram-sessions.md
+          - Chat Access Rules: NopBotAdminAI/chat-access-rules.md
+          - Bot Templates: NopBotAdminAI/bot-templates.md
+          - Scheduled Reports: NopBotAdminAI/scheduled-reports.md
+          - Bot Activity Log: NopBotAdminAI/bot-activity-log.md
+      - Help: NopBotAdminAI/help.md
+
+  - Universal One Page Checkout:
       - Overview: OnePageCheckout/index.md
       - Features: OnePageCheckout/Feature.md
       - Version History:
-        - Overview: OnePageCheckout/History.md        
-        - Version 6.0.1: OnePageCheckout/6.0.1.md
-        - Version 1.0.0: OnePageCheckout/1.0.0.md
+          - Overview: OnePageCheckout/History.md
+          - Version 6.0.1: OnePageCheckout/6.0.1.md
+          - Version 1.0.0: OnePageCheckout/1.0.0.md
       - Installation:
-          - Licensing: OnePageCheckout/Licence.md  
+          - Licensing: OnePageCheckout/Licence.md
           - Configuration: OnePageCheckout/Configuration.md
           - Scenarios of Use: OnePageCheckout/SenerioOfUse.md
           - Help: OnePageCheckout/Help.md
