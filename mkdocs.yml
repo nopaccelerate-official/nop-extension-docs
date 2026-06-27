@@ -332,47 +332,58 @@ nav:
           - Help: nopAccelerateCDN/Help.md
 
   - nopCommerce AI Chatbot:
-      - Overview: NopBotAI/index.md
-      - Features: NopBotAI/features.md
+      - Overview: nopCommerceAIChatBot/index.md
+      - Features: nopCommerceAIChatBot/features.md
       - Version History:
-          - Overview: NopBotAI/version-history.md
-          - Version 2.2.0: NopBotAI/2.2.0.md
+          - Overview: nopCommerceAIChatBot/version-history.md
+          - Version 2.2.0: nopCommerceAIChatBot/2.2.0.md
       - Setup & Licensing:
-          - Installation Guide: NopBotAI/installation.md
-          - License & Activation: NopBotAI/licence.md
+          - Installation Guide: nopCommerceAIChatBot/installation.md
+          - License & Activation: nopCommerceAIChatBot/licence.md
       - Configuration:
-          - General Settings: NopBotAI/general-settings.md
-          - OpenRouter Configuration: NopBotAI/openrouter-configuration.md
-          - Conversation History Settings: NopBotAI/conversation-history.md
-          - Knowledge Base Settings (RAG): NopBotAI/knowledge-base-settings.md
-          - Chat Appearance: NopBotAI/chat-appearance.md
-          - Saving Your Configuration: NopBotAI/saving-configuration.md
-      - Scenarios of Use: NopBotAI/scenarios-of-use.md
-      - Chat History: NopBotAI/chat-history.md
-      - Knowledge Base: NopBotAI/knowledge-base.md
-      - AI Processing Logs: NopBotAI/ai-processing-logs.md
-      - Help: NopBotAI/help.md
+          - General Settings: nopCommerceAIChatBot/general-settings.md
+          - OpenRouter Configuration: nopCommerceAIChatBot/openrouter-configuration.md
+          - Conversation History Settings: nopCommerceAIChatBot/conversation-history.md
+          - Knowledge Base Settings (RAG): nopCommerceAIChatBot/knowledge-base-settings.md
+          - Chat Appearance: nopCommerceAIChatBot/chat-appearance.md
+          - Saving Your Configuration: nopCommerceAIChatBot/saving-configuration.md
+      - Scenarios of Use: nopCommerceAIChatBot/scenarios-of-use.md
+      - Chat History: nopCommerceAIChatBot/chat-history.md
+      - Knowledge Base: nopCommerceAIChatBot/knowledge-base.md
+      - AI Processing Logs: nopCommerceAIChatBot/ai-processing-logs.md
+      - Help: nopCommerceAIChatBot/help.md
 
   - nopCommerce Admin AI Chatbot:
-      - Overview: NopBotAdminAI/index.md
-      - Features: NopBotAdminAI/features.md
+      - Overview: nopCommerceAdminAIChatBot/index.md
+      - Features: nopCommerceAdminAIChatBot/features.md
       - Version History:
-          - Overview: NopBotAdminAI/version-history.md
-          - Version 2.0.0.3: NopBotAdminAI/2.0.0.3.md
+          - Overview: nopCommerceAdminAIChatBot/version-history.md
+          - Version 2.0.0.3: nopCommerceAdminAIChatBot/2.0.0.3.md
       - Setup & Licensing:
-          - Installation Guide: NopBotAdminAI/installation.md
-          - License & Activation: NopBotAdminAI/licence.md
+          - Installation Guide: nopCommerceAdminAIChatBot/installation.md
+          - License & Activation: nopCommerceAdminAIChatBot/licence.md
       - Configuration:
-          - Settings: NopBotAdminAI/settings.md
-          - Registered Tools: NopBotAdminAI/registered-tools.md
-          - Admin Knowledge Base: NopBotAdminAI/knowledge-base.md
-          - Telegram Integration: NopBotAdminAI/telegram-integration.md
-          - Telegram Sessions: NopBotAdminAI/telegram-sessions.md
-          - Chat Access Rules: NopBotAdminAI/chat-access-rules.md
-          - Bot Templates: NopBotAdminAI/bot-templates.md
-          - Scheduled Reports: NopBotAdminAI/scheduled-reports.md
-          - Bot Activity Log: NopBotAdminAI/bot-activity-log.md
-      - Help: NopBotAdminAI/help.md
+          - Settings: nopCommerceAdminAIChatBot/settings.md
+          - Registered Tools: nopCommerceAdminAIChatBot/registered-tools.md
+          - Admin Knowledge Base: nopCommerceAdminAIChatBot/knowledge-base.md
+          - AI Processing Logs: nopCommerceAdminAIChatBot/ai-processing-logs.md
+      - Help: nopCommerceAdminAIChatBot/help.md
+
+  - nopAccelerate AI Analytics:
+      - Overview: AIAnalytics/index.md
+      - Features: AIAnalytics/features.md
+      - Version History:
+          - Overview: AIAnalytics/version-history.md
+          - Version 1.00: AIAnalytics/1.00.md
+      - Setup & Licensing:
+          - Installation Guide: AIAnalytics/installation.md
+          - License & Activation: AIAnalytics/licence.md
+      - Configuration:
+          - Settings: AIAnalytics/settings.md
+      - Dashboard: AIAnalytics/dashboard.md
+      - Ask AI: AIAnalytics/ask-ai.md
+      - Scenarios of Use: AIAnalytics/scenarios-of-use.md
+      - Help: AIAnalytics/help.md
 
   - Universal One Page Checkout:
       - Overview: OnePageCheckout/index.md

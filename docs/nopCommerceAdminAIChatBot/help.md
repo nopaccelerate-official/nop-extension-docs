@@ -20,4 +20,4 @@ You can also send us the exact steps to reproduce the issue by recording it usin
 
 ![help](../assets/img/help.png){ .img-border }
 
-[← Previous](bot-activity-log.md)
+[← Previous](ai-processing-logs.md)

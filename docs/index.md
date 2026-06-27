@@ -1,8 +1,10 @@
 # Available Plugins
 
-- [nopCommerce AI Chatbot](NopBotAI/)
+- [nopCommerce AI Chatbot](nopCommerceAIChatBot/)
 
-- [nopCommerce Admin AI Chatbot](NopBotAdminAI/)
+- [nopCommerce Admin AI Chatbot](nopCommerceAdminAIChatBot/)
+
+- [NopAccelerate AI Analytics](AIAnalytics/)
 
 - [Display Reward Point](displayReward/)
 
@@ -23,3 +25,4 @@
 - [nopAccelerate CDN](nopAccelerateCDN/)
 
 - [Universal One Page Checkout ](OnePageCheckout/)
+

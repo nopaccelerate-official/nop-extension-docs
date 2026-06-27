@@ -18,4 +18,4 @@ The Documents section lists all indexed knowledge base entries, showing their so
 
 > **Tip:** Run **Sync Sitemap** and **Sync Settings** immediately after installation. Re-sync whenever you install additional plugins or change your store structure.
 
-[← Previous](registered-tools.md) | [Next →](telegram-integration.md)
+[← Previous](registered-tools.md) | [Next →](ai-processing-logs.md)

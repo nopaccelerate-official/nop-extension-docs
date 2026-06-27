@@ -4,11 +4,10 @@ The **nopCommerce Admin AI Chatbot** plugin brings an AI-powered assistant direc
 
 Once configured, the plugin provides:
 
-- An **AI chat widget** embedded in the admin sidebar for instant store management
-- **60+ pre-built store management tools** covering products, orders, customers, promotions, and more
-- A **Telegram bot integration** to manage your store from your phone
-- A **Store Health Auditor** running 40+ automatic checks across your store
-- **Scheduled reports** delivered automatically to Telegram in Excel, CSV, or PDF format
+- A **floating AI chat widget** embedded in the admin panel for instant store management
+- **73 pre-built store management tools** covering products, orders, customers, promotions, and more
+- An **Admin Knowledge Base** that indexes all admin pages, store settings, and service dependencies
+- **AI Processing Logs** to monitor every AI interaction with intent, confidence, action, and response time
 
 | **Plugin Name**     | nopCommerce Admin AI Chatbot                    |
 |---------------------|-------------------------------------------------|
