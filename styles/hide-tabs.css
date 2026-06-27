@@ -1,0 +1,15 @@
+/* Hide the entire top tabs bar */
+.md-tabs {
+  display: none !important;
+}
+
+/* Also hide the underline active tab */
+.md-tabs__link {
+  display: none !important;
+}
+/*For image border */
+.img-border {
+  border: 3px solid #9CA3AF;
+  /* padding: 4px; */
+  border-radius: 4px;
+}
